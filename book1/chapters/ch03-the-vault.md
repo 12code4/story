@@ -1,6 +1,6 @@
 # Chapter 3 — The Vault
 
-**Part I: The Verge** · **Status: treatment** · Days later. The Vault; Compact chambers.
+**Part I: The Verge** · **Status: expanded treatment** · Days later. The Vault; Compact chambers.
 
 **Function**: Kiln, the history, and the stakes — the ship made real through the one man who
 remembers her. The salvage case argued and won by one vote. Iyo refuses, then signs, for the wrong
@@ -81,3 +81,81 @@ the game's first "voice-swap" audio event — establish the tech and the restrai
   chart, the word "Meridian" spoken once by Kiln like a stone he's carried.)
 - The withdrawn amendment: keep, or is it one notch too clue-like? (Flag for the mystery pass;
   it's currently the paper trail's single most loaded item.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Vell's given name locked (Onn Vell). Lantern's provost named
+(Edra Glass). The withdrawn amendment stays in the paper trail — final keep/cut deferred to the
+mystery pass (it is that document's decision to make).
+
+### Scene list
+
+- **S1 — Down into the Vault** (Vault stair, records hall, Sleep chambers · Iyo, escort clerk).
+  Ship-steel doors; the burned history shelf; ten dark caskets and one open like a made bed.
+  Turn: the clerk's habit of lowering her voice at the caskets — reverence for furniture.
+- **S2 — The audit** (Kiln's rooms · Iyo, Kiln). He interviews her craft: the count, the left
+  hand, what a walker's grip does at the moment recovery takes. Turn: no one has ever asked her
+  craft questions; it half-wins her before she notices. Exit: "Sit. Paper should have shadows."
+- **S3 — What he is** (Kiln's rooms · same). The Sleep rotation, sixty years awake, the
+  arithmetic of dying. Turn: what Elo's asking-by-rank means — his hands rearranging arranged
+  papers. The word *summons* never said.
+- **S4 — The case** (records hall, freight ledger · Kiln, Iyo). Nine Hearts: two out, one
+  running, six in reserve. Heart Two's decay curves. Turn: "We waited until it was hardest.
+  That is what institutions are for."
+- **S5 — The vote** (Compact chambers · Marlow, Edra Glass, Vestel, Guyot, delegates; Iyo in
+  the gallery). Procedural, compressed. Turns: Glass begging without begging; Vestel losing his
+  own young clergy to abstention; the Hall's rider (a linewalker goes). Exit: passed by one.
+- **S6 — The refusal** (Vault corridor · Iyo, Kiln). Her reasons in order; his acceptance
+  without argument, which is its own pressure.
+- **S7 — The reversal** (infirmary door · Iyo, Elo). Maren's exact recorded voice: "you counted
+  wrong." Conversational. An errand reminder. Exit: cut straight to the roster page, her name
+  wet at the bottom.
+
+### Dialogue keys
+
+- **Kiln** (craft audit): "When recovery takes — the hand. Does it grip you back, or does it
+  merely stop pulling away?" / **Iyo**, thrown, honest: "…It grips." / **Kiln**, writing:
+  "Yes. Everyone competent says that. No one asks why." — the closest the book comes, in Part I,
+  to touching the parked layer; he closes the subject himself.
+- **Kiln** (on Meridian, once): "I am the last man alive who has stood under weather. You would
+  not have liked it. It rains without being asked."
+- **Provost Edra Glass**: "Lantern is not asking the Compact for hope. Lantern is asking for
+  freight."
+- **Marlow** (voting yes with exits): "Let the record show Hearthfall votes for relief, and
+  prays the Order is right that nothing out there votes back."
+- **Elo** (the reversal, in Maren's voice, exact): "You counted wrong." — then, himself again,
+  mild, to the corridor at large: "She says that kindly, I think."  (The addendum is worse. Keep.)
+
+### Game content pack
+
+**Locations**: the Vault (stair, records hall with burned shelf, Sleep chamber row, Kiln's
+lamplit rooms), Compact chambers (gallery view — the vote staged as overheard/optional), the
+freight ledger table (interactable document set).
+
+**NPCs**: Ude Kiln (established), Vault clerk (Sela Archive — lowers her voice at caskets),
+Provost Edra Glass of Lantern, Prior Vestel, Auditor Onn Vell (one blinking introduction),
+Line-Master Guyot (the rider).
+
+**Side quests / optional content**:
+- *The Burned Shelf* — Sela Archive's quiet project: cataloguing what survives of the history
+  section (freight labels, one water-stained star chart). Player helps sort three fragments;
+  reward is texture, not lore: every fragment is a shipping document. The origin world survives
+  only as logistics. (Guardrail-compliant: nothing decodable.)
+- *Ten Dark Caskets* — optional examination of the Sleep chambers; each casket has a name-plate
+  and a rotation year; Kiln's is the open one. One plate is scratched out. Nobody will discuss
+  it. (Texture that stays texture — logged in the parking lot, never mined in Book One.)
+- *The Gallery* — attend the full vote (optional long scene) or skip to the result; attending
+  unlocks two extra ch. 25 reactions from delegates who remember Iyo watching.
+
+**Ambient events & barks**: the Vault's stillness (no Hum down here — the one interior in
+Hearthfall without it; players notice or don't); the electric lights Kiln keeps off; his pen.
+
+**Items, tokens & documents**: the freight ledger (HEARTS ×9 page — readable), Heart Two decay
+curves (chart object), the roster page (F10 of this chapter's arc: her name wet), Compact
+minutes (paper trail, with the struck amendment).
+
+**Audio priorities**: the Vault's non-Hum silence; pen scratch; the vote's procedural murmur;
+Maren's voice out of Elo — recorded-warm against corridor acoustics, mixed *closer* than the
+room should allow. One-time audio treatment; never reused until ch. 22.

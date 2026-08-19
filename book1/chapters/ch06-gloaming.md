@@ -1,6 +1,6 @@
 # Chapter 6 — Gloaming
 
-**Part I: The Verge** · **Status: treatment** · Weeks two–three. The Gloaming: the failing edge
+**Part I: The Verge** · **Status: expanded treatment** · Weeks two–three. The Gloaming: the failing edge
 of the Long Evening; the first Station of the Walk.
 
 **Function**: The threshold chapter — walking out of daylight *forever* — and the Founders' story
@@ -79,3 +79,82 @@ moth-at-lamp comfort will notice the silence without a single UI prompt. Trust t
 - Whether Part I should end one beat later — on Solene failing to raise the Undern farm on
   radio the morning after leaving. (Current: no. Too loud too early; the Reach will earn radio
   dread properly. Keep the moths as the closing note.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the Station One graffiti line ("the ones who stayed had lamps
+too") KEPT here — it reads as grief; cold-reader test at draft stage. Part I ends on the moths
+(locked; the radio-silence alternative rejected). The Undern farmer's theology capped at one
+line (locked).
+
+### Scene list
+
+- **S1 — Light arithmetic** (the Gloaming road, days · all). The Ember lower and redder each
+  march; colors leaving in order (red goes last; the world turns rust, then iron). Quiet ones
+  get quieter; Brakes gets louder; both are the same thing.
+- **S2 — The Undern farm** (steading barn · the Column, farmer Holt Garden, his wife Prue,
+  daughter Immy). Body-heat hospitality; the one line of theology; Immy showing Solene the
+  window-lamp and the list behind it — four generations of names. Turn: every window-lamp in
+  the Verge has a list behind it.
+- **S3 — Station One** (the shelter-cairn · all). The Year-1 names and falling tallies;
+  Cistern's Offices of Arrival read in reverse — improvised liturgy that unsettles its own
+  priest. Turn: Kiln correcting one scratched name's spelling, then stopping correcting.
+- **S4 — Craft interlude** (camps, days · Brakes/Old Say, Adder, Iyo/twins, Elo). Boiler
+  tuning for cold beyond rating; load re-rigging; Iyo teaching the twins the rote as a story
+  by firelight. Turn: Elo listening to the lesson like a man hearing his own language spoken
+  with an accent.
+- **S5 — The moths** (last camp of Part I · all). Lamps burning alone. A drift of moths
+  passing wide around the camp like traffic avoiding an accident. Stated once. Dovie stops
+  whistling for a night. End of Part I.
+
+### Dialogue keys
+
+- **Holt Garden** (the one theology line): "Night's a neighbor. You're going calling. Take
+  bread." — and then, all evening, nothing but farm talk; restraint is the sermon.
+- **Immy Garden** (at the lamp): "You put the light where they can see it coming home. That's
+  all it's for." / **Solene**: "Where *who* can—" / **Prue**, from the stove, mild: "Supper."
+  — the custom opened one inch and closed.
+- **Kiln** (at the wall, to no one): "Ossa spelled it with two esses. She'd have hated this
+  wall." — grief with 260 years of compound interest; also the name his ch. 7 slip will reuse.
+- **Iyo** (teaching the rote): "Lit side. Name. Left hand. Then you count, and you don't stop
+  counting, because the count is the door you both walk back through." / **Corun**: "What's
+  the count *for*?" / **Iyo**: "Getting home." — true, insufficient, and the reader files it.
+- **Brakes** (loud, to the thinning light): "Put it on my ledger with everything else."
+
+### Game content pack
+
+**Locations**: the Gloaming road (three travel segments with stepped color-grades — the
+palette desaturation is the region mechanic), the Garden steading (barn interior, warm), 
+Station One (shelter-cairn interior: the tally wall as a touchable surface, names raycast-
+readable), the last camp (moth event stage).
+
+**NPCs**: Holt, Prue, and Immy Garden (Undern out-farm family; Immy recurs in ch. 24's
+return as a taller silhouette waving from the terrace — one shot, no lines).
+
+**Side quests / optional content**:
+- *The List Behind the Lamp* — Immy lets the player copy the family's four-generation list
+  into the Manifest case "so someone official has them." Adds four background names the
+  ch. 23 roster-reading includes (the reading answers them like all the rest — the player
+  who did this quest hears four extra "present"s and knows why).
+- *The Wall* — Station One: square the loose plate-markers outside (Iyo's habit becomes a
+  player verb); inside, find Ossa's name (no marker, no reward — Kiln's bark fires if the
+  player lingers at it).
+- *Boiler Cold-Rating* — assist the Brakes/Old Say retune: a two-hand rhythm interaction
+  (call-and-answer cadence — mechanical foreshadowing of the work-song, unlabeled).
+
+**Ambient events & barks**: color-loss barks (each party member notices a different color
+going — Sung mourns green last, "cook's color"); the rote lesson repeatable at camp (the
+game lets the player re-hear the teaching as a menu-free tutorial refresher); Dovie's
+whistling as a persistent camp loop — its one-night absence after the moths is the audio
+system's first withheld layer.
+
+**Items, tokens & documents**: bread from the Gardens (a heat item that also fires a bark
+when consumed — "take bread"), the wall rubbing (paper trail; Vell folds it like a relic),
+the Gardens' copied list (if taken).
+
+**Audio priorities**: the Gloaming wind (a new bed, thinner than Verge wind); the barn's
+animal-warm room tone (the last uncomplicated comfort in Part I); Cistern's reversed Office
+(compose the liturgy properly — it recurs at Farside and the Errand); the moth event: no
+sting, no music — just the lamp hiss continuing and the flutter *not arriving*.

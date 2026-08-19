@@ -1,6 +1,6 @@
 # Chapter 2 — Hearthfall
 
-**Part I: The Verge** · **Status: treatment** · The following week. Hearthfall.
+**Part I: The Verge** · **Status: expanded treatment** · The following week. Hearthfall.
 
 **Function**: The texture chapter, deliberately low-plot: the city, the culture, Odile, Maren's
 absence, and the machinery (civic and religious) beginning to grind around Elo. The reader must
@@ -68,3 +68,76 @@ player still and make it warm; the whole game spends this deposit.
   next scene lands harder in front of Kiln).
 - Name/age of Sara's baby; whether she appears again in ch. 25 (leaning yes: Elo's name is one
   Iyo has to resolve door-to-door, and Sara's door is the hardest knock).
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Sara Weir's baby named (Bren); Sara recurs ch. 25 (locked).
+Iyo does not visit Elo this chapter (held for ch. 3, locked).
+
+### Scene list
+
+- **S1 — Walking home off shift** (gate → terraces → Furnace Row · Iyo). The city as body:
+  mains ticking, Hum in the teeth, bells running the sunless schedule, window-lamps facing the
+  dark. Three houses, three lamps, no comment.
+- **S2 — Supper** (Ballast kitchen · Iyo, Odile). Furnace-hand talk, the fierce unsaid, Maren's
+  chair. Turn: Odile says Maren's name indoors, once, like spending something. Exit: dishes,
+  silence that is also company.
+- **S3 — The infirmary-chapel** (Order house · Cistern, Elo, night-nurses; Iyo absent). Elo
+  processed: cooperative, cold, sleepless, sitting the nights. Turn: the nurses sleeping
+  *well* and hating it. Cistern's patter thinning.
+- **S4 — Sara** (infirmary visiting room · Sara Weir, Elo, Cistern observing). The scene the
+  chapter exists for. He remembers everything; asks nothing. Turn: "That's not him. Elo would
+  have asked about the baby." Exit: Sara's straight back all the way to the door.
+- **S5 — The city reacts** (montage of rooms · Order pulpit, Undern berm-offerings, Marlow's
+  office, Linewalkers' Hall). Four vignettes, brisk. Turn: the Hall doubling patrols —
+  eleven recoveries this month. Exit: a runner finds Iyo. The Vault wants her, by name.
+
+### Dialogue keys
+
+- **Odile**: "Sit. Eat. You walk too much on shift to also walk at my table." — love as
+  logistics; the register the ch. 25 kitchen scene will pay off.
+- **Odile** (the spend): "Maren liked this soup." Beat. Nothing else. Nobody performs grief in
+  this house.
+- **Night-nurse** (to Cistern, ashamed): "Best sleep of my year, Father. What does that make
+  me?" / **Cistern**: "Rested." — his kindness outrunning his doctrine in real time.
+- **Sara Weir**: "That's not him. Elo would have asked about the baby." — the deviation stated
+  by the person with standing to state it.
+- **Marlow** (to an aide, weathervane): "Draft me two statements. One where it's a miracle,
+  one where it's a warning. I'll know by Firstbell which we believe."
+
+### Game content pack
+
+**Locations**: Furnace Row (Iyo's street — reused in ch. 26's final walk; build once, pay
+twice), the Ballast kitchen (two chairs used, one kept), the infirmary-chapel (ward + Heart-
+side chapel with gasket-cord rosaries on hooks), the Hall's Manifest board (side-quest system
+teased, locked until ch. 4), Compact steps (Marlow vignette).
+
+**NPCs**: Odile Ballast (kitchen scenes throughout), Sara Weir (recurs ch. 25) + Bren (the
+baby), two night-nurses (Ivett, Maro — the sleeping-well pair), Prior Vestel (pulpit, one
+speech), Provost Sere Marlow (office, one scene), Line-Master Guyot (Hall, doubling patrols).
+
+**Side quests / optional content**:
+- *Eleven This Month* — Guyot asks Iyo to hand-deliver patrol-doubling notices along her
+  street; each door is a one-line character sketch of the Verge (the game's first "doors"
+  motif, rhyming with ch. 25's door-to-door at the far end of the story).
+- *Offerings* — Undern bread and mittens keep appearing on the berm; the Hall wants them
+  cleared, the Undern replace them by morning; the player chooses each night: clear or leave.
+  No mechanical consequence either way. (Tracked silently; one Undern NPC thanks or forgives
+  Iyo in ch. 25 accordingly.)
+- *The Bowl* — Odile asks Iyo to take Maren's festival bowl to the mender (a crack, not a
+  break); the mender (old Tock Glass) recognizes the pattern: "Lantern-work. They don't fire
+  this glaze anymore." Small object, big shadow; the bowl is on the table in ch. 25.
+
+**Ambient events & barks**: dark-bell latch ripple down a street (doors closing in sequence,
+audio choreography); children's counting-game chants (the rote as playground rhyme — plant
+now, devastate at ch. 19's chalk game); the sour Hum mentioned by two NPCs who've been to
+Lantern ("you can feel it in your fillings").
+
+**Items, tokens & documents**: Maren's festival bowl, the infirmary admission form (paper
+trail — Cistern's handwriting decaying from clinical to human), Undern mitten (if kept).
+
+**Audio priorities**: the Hum as the city's room tone (establish here so its absence on the
+road registers), the latch ripple, soup-pot domesticity vs. ward silence, Sara's footsteps —
+even, unhurried, the sound of a woman deciding not to run.

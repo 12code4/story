@@ -1,6 +1,6 @@
 # Chapter 1 — The Cold-Line
 
-**Part I: The Verge** · **Status: treatment** · Deep winter, Year 181. The cold-line east of
+**Part I: The Verge** · **Status: expanded treatment** · Deep winter, Year 181. The cold-line east of
 Hearthfall, one full night shift.
 
 **Function**: Teach the world's grammar through one working shift: heat, lamps, the count, the
@@ -66,3 +66,82 @@ light gradient, no music until his count joins hers.
 - Does Duna recur? (Candidate: yes, ch. 25 — one of the door-to-door stops, a *good* outcome.)
 - How explicit to make the wick-hour thinning here vs. saving instrument-denial for ch. 3.
 - Elo's exact first line. (Current candidate: "You're the one who counts. Good.")
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Elo's first line locked ("You're the one who counts. Good.").
+Style rule locked for the whole book: incidental counting may appear mid-stream ("…twenty-nine…"),
+but Iyo's *totals and discrepancies* are never printed as digits — the reader gets "right" or
+"wrong," never the number.
+
+### Scene list
+
+- **S1 — Mid-recovery** (the line, past Post 10 · Iyo, Duna). Open inside the count, no setup.
+  Duna surfaces slowly over the walk — recovered walkers come back like swimmers, soft and
+  embarrassed. Turn: her first fully-her sentence ("Was I singing? Mam says I sing."). Exit:
+  Post 9's lamp in sight.
+- **S2 — Post 9 hand-off** (post hut · Iyo, Fenn Wick, Hessa & Duna Terrace). The lamp-log, the
+  wick-hours column, the family's aggressive gratitude. Turn: Hessa forcing oil on Iyo — thanks
+  as payment because thanks-as-words is unbearable. Exit: family diminishing toward the terraces.
+- **S3 — The long leg** (Posts 9→11 · Iyo alone). The private geography: first-recovery post,
+  the culvert, Maren's bend. No flashback; furniture that hurts. Turn: none — the scene's job is
+  rhythm. Exit: the bell.
+- **S4 — The bell** (Post 11 · Iyo, Old Cabb). A double ring in no code, rung by a thirty-year
+  veteran ashamed of his own hands. Turn: what he says he saw ("Traffic, Ballast. In-bound."),
+  and that he won't walk out with her — not cowardice; doctrine has no page and he knows it.
+- **S5 — Past the last lamp** (the grey · Iyo, the figure). The approach, lit-side, by rote, with
+  no rote left. Turn: the figure *stops at the correct distance* — it knows the protocol.
+- **S6 — Elo** (the grey · Iyo, Elo). Identification (Manifest lists, memorized), his condition
+  (cold, well), his ask (Kiln, by rank). Turn: "You're the one who counts. Good."
+- **S7 — The walk in** (the line, homeward · Iyo, Elo). Procedural walk-back, no recovery
+  performed because none is needed. Turn/close: his count joining hers under his breath, half a
+  step ahead.
+
+### Dialogue keys (voice anchors, not final prose)
+
+- **Duna** (surfacing): "Was I singing? Mam says I sing." — recovered walkers return embarrassed,
+  never frightened. Fear is for the families.
+- **Fenn Wick** (lamp-clerk, 17): "Six-point-four. Da used to say five was a scandal." — the
+  thinning light as small talk; the Wicks are a lamp family and their father is a Manifest name.
+- **Hessa Terrace**: "You'll take the oil. You'll take it or wear it." — Verge gratitude.
+- **Old Cabb**: "Thirty years I rung that bell. There's no pull for this." — the bell codes as a
+  complete language meeting something outside its grammar.
+- **Elo**: "You're the one who counts. Good." Then, of Kiln: "Ude Kiln. Warrant Officer. He keeps
+  the Vault." / Iyo: "People don't come *out* of the line." / Elo, agreeing, unhelpful: "No."
+  — first demonstration: truthful, courteous, no *why*.
+
+### Game content pack
+
+**Locations**: Post 9 (hut interior: lamp-log desk, oil store, cot), the berm walk (Posts 9–11,
+the playable line), the culvert (landmark, one bark), Maren's bend (landmark, one bark, no
+marker — players find it by Iyo going quiet), Post 11 (bell platform), the grey (past the last
+lamp — colder palette, flame meter live).
+
+**NPCs**: Duna Terrace (28, out-farmer; recurs ch. 25 — the good door), Hessa Terrace (mother),
+Fenn Wick (Post 9 lamp-clerk; brother of linewalker Edda Wick; their father Corm Wick walked
+Y175 — Manifest name), Old Cabb (Post 11 bell-ringer, 30-year veteran; recurs ch. 26 as the
+old hand who adopts the new rote grudgingly).
+
+**Side quests / optional content**:
+- *Duna's Boots* — her boots are still at the berm where she shed them; return them at Post 9.
+  One-scene kindness; pays off ch. 25 (she kept them by the door "for luck, or against it").
+- *The Lamp-Log* — reconcile Post 9's wick-hour columns for Fenn (mini ledger interaction);
+  unlocks the Y176 margin note ("lamps old? or evening long?") as a readable.
+- *Old Cabb's Codes* — learn the bell-code card (five pulls, five meanings); the game uses the
+  literacy in F6/ch. 12/ch. 24 (Cinder Row's curfew bell is a code the player can now read).
+
+**Ambient events & barks**: moths orbiting every lamp (density = the game's normalcy meter,
+never labeled); a farm dog at the berm facing the dark, silent, ignoring food; frost-song
+running the fence wire when temperature snaps; the city's Hum swelling when Iyo faces
+Hearthfall (audio compass); idle-Iyo counting under her breath.
+
+**Items, tokens & documents**: Iyo's tally-cord (her father's — a knotted counting cord, worn
+smooth; equipped, not consumed; the game's "controller" for the count), Duna's boots, bell-code
+card, lamp oil (Hessa's gift — the game's first heat currency), lamp-log page (paper trail).
+
+**Audio priorities**: the count VO (layered breath+voice, the game's signature sound), bare
+feet in snow crust vs. boots, the hesitant double bell, total wind-stop before Elo (silence as
+event), Elo's under-breath count offset by a half-step in the final walk — mixed low enough
+that some players doubt they heard it. That doubt is the deliverable.
