@@ -1,6 +1,6 @@
 # Chapter 17 — The Long Cold
 
-**Part III: The Sea of Static** · **Status: treatment** · Weeks nineteen–twenty-one. The deep
+**Part III: The Sea of Static** · **Status: expanded treatment** · Weeks nineteen–twenty-one. The deep
 Sea, on foot, without Kettle. Ghost joins.
 
 **Function**: The attrition chapter — hunger math, carried heat, the Column at its physical
@@ -103,8 +103,8 @@ absorbing the dark's — is Part III's thesis in one image.)
 **Solene's radio log, one line**: *"0311: own hail (day 6 arch.) returned, bearing
 nightward, 4s. Logged in full. — S.A."* — followed, facing page, by Ghost's map of the
 Vein route, redrawn in her hand for the navigation folder, the tidy original label THE
-VEIN copied exactly, and beneath it her one annotation, the chapter's held breath:
-*"his ink was fresher than his paper."*
+VEIN copied exactly. (Her annotation cut per the content pass — the copied label alone
+carries the wrongness.)
 
 ## Game notes
 
@@ -128,3 +128,104 @@ fast-knowledge, not fast-travel.
   professionals. Nothing else, ever. Anything more collapses both.)
 - The prints' file-position (two behind Iyo): keep the specificity? (Yes. Specific and
   unexplained beats vague and atmospheric — house style.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Solene's "his ink was fresher than his paper" annotation CUT
+(guardrail 6 — the redrawn map label alone carries the wrongness). The prints' file-position
+specificity kept (two behind Iyo, locked). Ghost/Elo contact locked at one wordless
+lamp-courtesy exchange, ever.
+
+### Scene list
+
+- **S1 — Carried warmth** (the deep Sea, days · all). Life after Kettle in procedure: stove
+  rotation by pairs, wet-boot triage, the one-stomach tables Vell now keeps for both columns.
+  The wardens' second machine dies; five troopers detailed home under a corporal with
+  duplicate logs and the last machine-fuel margin; Frame keeps three. Nobody calls it
+  retreat. Turn: the world contracted to load, lamp, next camp — the reader does the
+  crossing on foot.
+- **S2 — The discontinuities** (three spaced events, one witness each). The prints that join
+  the Column's own line from the right — boot-issue correct, stride correct, falling into
+  file two positions behind Iyo — begun mid-Sea, ended unfindably. Adder logs boot-issue
+  and stride. / Pell's knife, buried at the Glass Fields, found by Dovie oiled and wrapped
+  in the twins' tool-roll where it always lived. They put it back. / Solene's own ch. 13
+  hail played back at her from nightward, four seconds. She logs it this time. (One line;
+  the bravest sentence she has written.)
+- **S3 — Ghost** (forward watch, then the line · all + the Cartographer). A light,
+  approaching; a man alone with a neat sledge and gear of no lineage, hailing by lamp
+  etiquette six hundred kilometers from anywhere that teaches it. No name ("names are for
+  rosters; I'm not joining"). Maps — accurate, THE VEIN inked in a tidy hand — traded for
+  company. Turn: "Walk me in your line a while. The Sea's poor conversation."
+- **S4 — The problem of his face** (camp, once · Adder, Solene, Cistern, Iyo). Three
+  descriptions that don't agree, given in dialogue, laughed off as tiredness, never raised
+  again. Iyo declines to give one. Frame's file: "description: declined."
+- **S5 — What he's for** (days in the line · Ghost embedded). Good company; Sea-lore
+  (false-singing ice, stove-banking against a draw-wind "so you spend less light"); respect
+  for the dead machine ("everything that worked hard deserves a marker"); zero curiosity
+  about the errand. The Iyo exchange at the rear of the line: Farside's bearing; "What's it
+  like?" / "Kept." Exit: Frame's log — "Day 54. Guide attached. Provenance: none. Charts:
+  correct. This command notes that correct is not the same as good."
+
+### Dialogue keys
+
+- **Ghost** (joining): "Walk me in your line a while. The Sea's poor conversation." — the
+  price of the maps, stated like a courtesy and never renegotiated.
+- **Ghost** (craft): "Bank your stove off the draw-wind. You're spending light you could be
+  keeping." — practical, true, and phrased in the dark's economics; nobody flinches anymore,
+  which is Part III's real horror metric.
+- **Adder / Solene / Cistern** (the descriptions, once): "Tall. Sixty, thereabouts. Bag on
+  the left." / "He's *thirty*, Sergeant." (laughing) / "Friends — he is neither. The bag is
+  on the right." — and the scene moves on, tiredly, forever (locked).
+- **Ghost** (asked what Farside is like): "Kept." Then, nodding up the lamps: "Like that.
+  You keep it as you go, or you don't arrive."
+- **Frame's log** (the exit line, verbatim): "Day 54. Guide attached. Provenance: none.
+  Charts: correct. This command notes that correct is not the same as good."
+
+### Game content pack
+
+**Locations**: the deep Sea (the survival stretch: longest travel segments in the game,
+weather at full weight), the dead machine's cairn (Ghost insists on the marker — one
+scene), rolling camps (the stove-rotation system's home).
+
+**NPCs**: Ghost (escort-guest NPC through ch. 19; barks are his content — party members
+describe him inconsistently in ambient dialogue only; his codex portrait is the game's one
+silhouette; no model swaps, per game notes). The departing five troopers (a leaving scene:
+duplicate logs handed over — the player may add letters; they arrive, confirmed ch. 24).
+
+**The discontinuities (hand-authored, per the sanctioned system)**:
+- *The Prints* — a world-geometry event: the player can walk beside the joined trail,
+  measure it with the recovery kit, and find where it starts (nowhere) and stops (nowhere).
+  Adder's log updates. No other system reacts.
+- *The Knife* — an inventory event: Pell's knife reappears in the twins' tool-roll stack.
+  No notification. Players who inventory-manage will find it; the wiki will fight about
+  the patch it arrived in.
+- *The Playback* — a radio event at the nightly hail: her own ch. 13 hail, four seconds,
+  nightward bearing. The log auto-writes. Never referenced again.
+
+**Side quests / optional content**:
+- *The Marker* — build the dead machine's cairn with Ghost (he does it properly, Verge-
+  style, which he should not know; nobody says so; the player's hands learn it beside his).
+- *Sea-Lore* — three optional Ghost teachings (false ice, draw-wind banking, lamp-courtesy
+  long-range signals); each is real and mechanically useful; each is also the dark's
+  etiquette, taught gently, by someone. (No flag. Ever.)
+- *The Maps* — redraw Ghost's charts into the navigation folder with Solene (a quiet
+  two-hander scene; her redrawn THE VEIN label copies his hand exactly; the annotation is
+  cut — the copied label alone is the wrongness now).
+
+**Ambient events & barks**: hunger math surfacing in barks (portions named, not numbered —
+style rule holds); the three-trooper wardens folding into Column watch rotation (Sess's
+inherited ration-bar habit, unremarked); Ghost's jokes landing in an unplaceable register
+(write five; use three).
+
+**Items, tokens & documents**: Ghost's maps (chart overlays — hand-drawn layer over the
+player's map, diegetic fast-knowledge), the duplicate logs (gone home), Solene's one-line
+log entry (paper trail), Pell's knife (back; stays back; no one carries it now — it rides
+the sledge).
+
+**Audio priorities**: the deep Sea's bed thinned further (wind losing texture — approaching
+the Vein changes this next chapter); Ghost's voice (warm, unplaceable accent — cast someone
+whose natural speech sits *between* the Verge voices); the playback (her ch. 13 hail
+re-used verbatim, degraded one generation); boots in file — and, for one authored segment,
+one extra set in the mix, low, two positions back. Never again.

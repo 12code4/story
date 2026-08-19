@@ -1,6 +1,6 @@
 # Chapter 16 — The Lead
 
-**Part III: The Sea of Static** · **Status: treatment** · Weeks seventeen–eighteen. The great
+**Part III: The Sea of Static** · **Status: expanded treatment** · Weeks seventeen–eighteen. The great
 open-water crack. The midpoint disaster.
 
 **Function**: The book's engineering triumph and its costliest chapter in the same breath:
@@ -133,3 +133,107 @@ room, real-time, the player may simply sit. Let them.
 - Bridge left standing: revisit in ch. 24 — the return crossing finds it maintained.
   (Not repaired: *maintained*. One line. Nobody comments. Confirm this lands inside the
   safe-passage dread of the return rather than as a new mystery object.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Brakes' Benthos line trimmed to "it answers" (locked — the
+longer clause was one notch too load-bearing). Old Say's mid-sentence death locked. The bridge
+left standing, found *maintained* in ch. 24, one line, unremarked (locked).
+
+### Scene list
+
+- **S1 — The Lead** (the open-water crack · scouts, then all). Black water, standing mist,
+  variable beyond mapping. The options laddered: wait (weeks), raft (the Founders lost nine),
+  bridge at the Narrows. Turn: Brakes' hour alone at the edge, deaf ear seaward — "Kettle
+  carries the bridge. Kettle doesn't cross it."
+- **S2 — The build** (the Narrows, two days · Brakes commanding, all hands + wardens'
+  winches). Cable-stays hand-carried since the Anchorage ("You pack like my mother");
+  call-and-answer work rhythm; the ice answering her call once, pitched right — her hands
+  stopping for the first time in the book; Old Say's voice putting her back: "Eyes on the
+  work, Ottla." (First use of her name. One more use is coming.)
+- **S3 — The surfacing** (the Narrows, second night · everyone, lamps ringed). The water
+  bulges; the Benthos lies alongside the work for the better part of an hour: hull-vast,
+  matte, old. The near lamps brown down; the cold deepens in a radius felt through boot
+  soles. It drinks the light. Doctrine from every mouth: Adder (hold, holstered), Kiln
+  ("Not malice. *Draft.*"), Cistern (nothing — the dark has fauna; absence doesn't have
+  fauna), Brakes (good ear pressed shut; later, to Iyo only: "it answers"). It submerges
+  without wake. The work resumes, because the allowance doesn't care.
+- **S4 — The crossing** (bridge day · all, by load-order). The spans singing; the far
+  anchor-ice shifted overnight; the four-line argument nobody wins; Kettle winched onto the
+  first span with the final stays. The bearing shears. **Kettle into the Lead** — slow,
+  chain-squeal, steam — and **Old Say onto the brake**, one beat too long, buying the
+  bridge and the six people on it. Tapper over the side without orders. Ninety seconds of
+  the book's worst physics. He comes up alive.
+- **S5 — The warm tent** (four hours later · all, around him). He dies talking — boiler
+  pressure, a fitting Brakes should mind — and the sentence doesn't finish. Cistern's
+  euphemism dies with him ("the body is not a boiler. Forgive me. It never was."). Brakes
+  goes out and services the bridge all night, alone, correct. Morning: the Column crosses
+  the repaired spans in load-order and leaves the bridge standing, because you leave the
+  way open. Cistern's Manifest entry: *Saydu Furnace. Y.181. Apprentice: O. Furnace. Token:
+  gauge.* Ten souls, one automaton, no crawler. Coldest page. End.
+
+### Dialogue keys
+
+- **Brakes** (the plan): "Kettle carries the bridge. Kettle doesn't cross it." — the whole
+  chapter's tragedy is that she was right and it half-mattered.
+- **Old Say** (the name): "Eyes on the work, Ottla." — and four hours from the end, in the
+  tent, the second and last use: "Ottla. The spans. Mind the—" (unfinished; locked).
+- **Kiln** (doctrine at the surfacing): "She's why the Founders lost the rafts. Not malice.
+  *Draft.*" — the dark's ecology named in freight terms; nobody translates it.
+- **Cistern** (the tent): "The body is not a boiler. Forgive me. It never was." — doctrine
+  retired at a deathbed, gently, by its own priest.
+- **Brakes** (to Iyo, much later, watch-quiet): "Through the bad ear. It answers." — trimmed
+  to four words (locked); the reader may connect it to the work-song; she doesn't.
+
+### Game content pack
+
+**Locations**: the Lead (edge walk, the Narrows), the build site (two-day construction
+staging), the bridge itself (crossing set-piece; persists in world-state through ch. 24),
+the warm tent (one-room scene), Old Say's grave site (marker + reef-line dressing in the
+ch. 24 return-state).
+
+**NPCs**: no new faces (design law). The Benthos: one model, one scene, no bestiary entry,
+never again on camera in Book One.
+
+**Set-piece design (the trilogy of the act, per game notes — restated as content law)**:
+1. *The Build* — crafting apex: stay-tensioning by the notebook's table (Old Say's pocket
+   notebook as diegetic UI), winch coordination with warden NPCs, the call-and-answer
+   rhythm as input cadence.
+2. *The Surfacing* — no-verb encounter: lamps dim in radius, cold system spikes; the only
+   inputs are hold still or keep working; working through it is tracked (one Old Say line
+   in the tent if the player worked: "you kept your hands. good hands.").
+3. *The Failure* — scripted; the player is on the stays; weight-and-timing interaction, no
+   QTE prompts; Kettle cannot be saved (no reload-bait — design honesty per ch. 11's law).
+   Tapper's dive is Tapper's: the player's input is Brakes' — hold the line.
+
+**Side quests / optional content**:
+- *The Long Augers* — pre-build: bore the anchor test-holes with the ch. 4 augers (Old Say's
+  foresight made mechanical; his last teaching sequence).
+- *The Notebook* — after: Brakes inherits the pocket notebook by rite; the player pages it
+  (forty years of fittings, apprentice names, "hears true"); it becomes her equipped tool
+  item for the rest of the game (repairs reference it visibly).
+- *Service* — the all-night bridge service is playable at the player's choice: perform the
+  full stay-by-stay sequence with Brakes (long, quiet, correct), or sit at the tent and
+  listen to her work (Adder's hand says no to following; the player may anyway — she
+  doesn't acknowledge company; the input is presence). Either choice is right.
+
+**Ambient events & barks**: the Lead's mist freezing as it rises (falling-up snow — the
+region's one beautiful-wrong visual); the spans' song under load (pitch = stress —
+ice-literacy transferring to the built thing); Kettle's absence from the camp loop after
+(the stove-glow hole in every subsequent camp composition — the art team's cheapest,
+cruelest change).
+
+**Items, tokens & documents**: Old Say's pocket notebook (paper trail + equipped item), the
+gauge (his Manifest token), Kettle's bell (salvaged off the chassis in the ninety seconds?
+— no: locked, nothing is salvaged; the loss is total; the bell stays on her, in the Lead,
+and one line in ch. 24 hears it — cut that too; the Lead keeps what it takes. LOCKED:
+nothing comes back up).
+
+**Audio priorities**: the build's call-and-answer (Brakes' voice + crew, musical without
+music); the surfacing (lamp-hiss browning down; sub-bass presence; *no creature
+vocalization* — it does not know they are there); the failure (chain-squeal, steam, then
+water-quiet); the tent (close-mic'd, warm, the stove's small sounds; his sentence ending
+on room tone); her all-night service heard from inside the tent — wrench-song at distance,
+the loneliest audio in the game.

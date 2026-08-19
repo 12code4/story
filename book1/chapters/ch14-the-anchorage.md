@@ -1,6 +1,6 @@
 # Chapter 14 — The Anchorage
 
-**Part III: The Sea of Static** · **Status: treatment** · Weeks fourteen–fifteen. The fallen
+**Part III: The Sea of Static** · **Status: expanded treatment** · Weeks fourteen–fifteen. The fallen
 cargo tether. **Set-piece chapter**: the cable road, the pods, and Frame.
 
 **Function**: The book's great melancholy set-piece (a road made of the ship's own lifeline,
@@ -111,3 +111,88 @@ unremarked, missable. Forums will do the rest.)
   whole thesis in five words each.)
 - The cable's hum going silent: confirm against rule sheet (it's ambient wrongness, stated
   once — compliant), and never explain whether the cable was ever carrying anything at all.
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Frame's abatement clause never spoken (locked). The Elo/Frame
+roster exchange kept at one line each (locked: "I don't count, Warden." / she writes him down
+anyway). The cable's hum going silent stays once-stated and forever unexplained (locked).
+
+### Scene list
+
+- **S1 — The road** (the tether's foot, then the cable · all). A road where no road can be;
+  Kiln's one-line history ("Cargo umbilical three. I rode it down once, when it hung from her
+  side like a well-rope"); the climb up; single file on three meters of steel above the
+  ridge-chaos. Turn: the faint hum underfoot, stated once as old current or wind.
+- **S2 — The pods** (PODs 117/121/129, nights · all). Manifests read by lamp: slates 800;
+  orchard stock dormant; festival lanterns 2,000. The Column at the racked saplings, who have
+  never seen a tree. Turn: Cistern's Office replaced by the manifest read aloud, slowly, as
+  found liturgy. Brakes pockets one folded paper lantern.
+- **S3 — Overtaken** (the cable, a pod-gap · the Column + Frame's wardens). Motor-noise; fast
+  low lights; the chokepoint taken with nothing drawn. Parley at ten paces: the writ, the
+  pardon offer, Kiln's counter ("arrest me on my own deck, if your writ swims"). Turn: Iyo's
+  read — the Warden is terrified *for home*; this is what that looks like in a uniform.
+- **S4 — Vell crosses** (the ten paces · Vell, both columns). The confession-by-confirmation:
+  dates, contents, aloud, to their faces; the supply handover paperwork finished *first*
+  ("the arithmetic doesn't care who's right"); the crossing. Turn: Brakes' nod — the
+  collar-wearer saluting the only honest man in the scene.
+- **S5 — The sky closes it** (POD 130 · everyone). The aurora standing up off the horizon;
+  both doctrines agreeing on shelter; twenty-one souls and an automaton sealing themselves
+  into the colony's furniture. Turn: the cable's hum stopping as the sky tears — yielding
+  the floor. Exit: the hatch-wheel spinning shut.
+
+### Dialogue keys
+
+- **Kiln** (at the tether's foot): "Cargo umbilical three. I rode it down to the surface
+  once, when it hung from her side like a well-rope." — the road given scale in one sentence.
+- **Frame** (the offer, even-voiced): "Full pardons. Escorted return. The Compact's word." /
+  **Kiln**: "The Compact's word is currently broadcasting my abatement on the hour." /
+  **Frame**, not flinching: "Then you know it keeps a schedule." — two lawful people fencing
+  with the same law.
+- **Vell** (the crossing): "The dispatches were mine. Dates and contents as follows." — and
+  he gives them ALL, unprompted, to the people they injured; confession as audit.
+- **Elo / Frame** (the roster): "I don't count, Warden." / — she writes him down anyway.
+  (Locked. Five words each side; the book's thesis in miniature.)
+- **Cistern** (reading POD 129's manifest as liturgy): "Festival goods. Lanterns, paper, two
+  thousand." Beat. "Let us keep the feast we were sent." — found liturgy; his best hour
+  before Farside.
+
+### Game content pack
+
+**Locations**: the tether's foot (climb-up staging), the cable road (40 km traversal in
+segments — balance, wind gusts, pod-gaps), PODs 117 / 121 / 129 (shelter interiors with
+authored manifests; every pod readable), the pod-gap standoff stage, POD 130 (the chamber
+for ch. 15 — dress it now: household goods, cradles, door-hinges, 2,000 window-lamps).
+
+**NPCs**: Warden Halda Frame (on-page debut), Trooper Imma Gale (the warden who talks across
+the aisle — one warm scene tonight: the ration-bar, the brother story; she must read as the
+most alive warden, per ch. 15's needs), Frame's troopers (nine, two named in barks: Corporal
+Sess, Trooper Hale), Vell (crossing).
+
+**Side quests / optional content**:
+- *Manifest Reading* — every pod on the cable is enterable; each holds one manifest and one
+  small scene-in-objects (authored, no combat, no loot beyond one supply item per pod; the
+  reward is the colony that never happened, itemized). Completionists arrive at ch. 15's
+  POD 130 already grieving. Correct.
+- *The Saplings* — POD 121 optional beat: each party member touches or doesn't touch the
+  freeze-dried orchard stock; one bark each (write all; Kiln's is the killer: "Apples. Your
+  mothers were promised apples.").
+- *The Lantern* — Brakes' pocketed paper lantern becomes a tracked inventory item (burns at
+  ch. 24's relighting; the player carries it 10 chapters; it weighs nothing; it weighs
+  everything).
+
+**Ambient events & barks**: the cable's underfoot hum (continuous low layer, established so
+its S5 stop lands); wind-shear gusts timed to traversal (threat without failure states —
+staggering, never falling); the wardens' motor-noise arriving as the first engine sound
+since Hearthfall (audio event with its own dread — *home built that noise*).
+
+**Items, tokens & documents**: pod manifests (paper trail source), the paper lantern, the
+writ (Frame's paper copy — shown, not served), the interleaved watch roster (taped by the
+hatch — alphabetical, no ranks; paper trail).
+
+**Audio priorities**: the cable (hum + boot-ring on steel — a road that is also an
+instrument); pod interiors (dead air, close; the first true indoor silence since Saltcamp);
+the standoff played *quiet* (wind steals volume; everyone economizes words); the tear's
+onset — the sky's sound arriving through the steel before the eyes get it; the hatch-wheel.

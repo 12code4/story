@@ -1,6 +1,6 @@
 # Chapter 15 — Sky-Tear
 
-**Part III: The Sea of Static** · **Status: treatment** · Thirty-one hours in Pod 130. The storm
+**Part III: The Sea of Static** · **Status: expanded treatment** · Thirty-one hours in Pod 130. The storm
 chapter: one room, two columns, and the book's full mindfuck register opened.
 
 **Function**: The pressure-cooker chapter — enemies packed in a steel box while the sky burns —
@@ -136,3 +136,96 @@ witness, no prompt text editorializing.
 - The doubled shadows in the last line: confirm once-only budget (it never recurs). And
   whether "nine meters" should be printed as measurement or left as Iyo's kneeling silence.
   (Current: printed. The number is worse.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: interior order locked (Adder → Brakes → Solene → Cistern → Kiln
+→ Iyo, with Elo threaded throughout); Iyo's stays last and nearly invisible. Gale gets one
+story + the ration-bar gesture (locked). The doubled shadows stay in the last line, once, never
+recurring (locked). "Nine meters" printed as measurement (locked — the number is worse).
+
+### Scene list
+
+- **S1 — The room settles** (POD 130 · everyone). Trade-instinct sorting: engineers pooling
+  at the crate-stove, soldiers of both columns converging on watch-and-inventory. The tear
+  through the one port: color moving on the ice. Solene names the band: "It isn't empty.
+  It's full." Turn: Gale's story (her brother walked years back; she talks across the aisle
+  because silence is how her family lost him) — the pod's one warm human hour.
+- **S2 — The interiors** (the same room, the same night · one principal at a time, returning
+  each to the common scene). Adder's bell keeping better time than his watch; Brakes' Hum
+  resolving into a work-song, her hands keeping a task's count in her lap; Solene's
+  four-second window of last winter (her mother's voice; her own fourteen-year-old cough) —
+  unlogged, the first unlogged entry of her life; Cistern's inhabited pause in the Office
+  (attendance; his name in it, he will insist to no one, ever); Kiln telling Frame the
+  descent and describing it *from outside the hull* — catching it, correcting for the
+  record; Frame writing both statements down; Iyo counting sleepers at the room's edge — up
+  one, down one, stable, up one — and stopping. Elo, throughout: lamp-keeper; during the
+  worst hour, turning the wick *up*. It helps. That's the wrongness.
+- **S3 — Muster** (dawn-bell, the pod and the ice · everyone). Frame's count short. The
+  hatch dogged from inside, as left. The prints: barefoot, nightward, walking-pace,
+  beginning nine meters from the hatch. Iyo kneeling at the start-point, professional,
+  logging stride. Turn: what nobody says aloud, stated by the wheel's position and moved
+  past.
+- **S4 — The truce** (the ice · Frame, Kiln, both columns). Pursuit over — she knows it at
+  the prints. Terms in operational language because the real terms are unbearable: yoked
+  columns, machines scouting while fuel lasts, split command. "I'll see the thing my
+  trooper walked to." Turn: Vell entering Gale in the Manifest case with full formality —
+  noticed only by Brakes. Exit: one body, nightward, under an innocent sky; the doubled
+  shadows in the last line, once.
+
+### Dialogue keys
+
+- **Solene** (naming the band): "The band isn't empty. It's full." — four words that
+  reclassify the whole crossing.
+- **Gale** (the story, mid-laugh, to both columns): "My brother walked when I was nine. My
+  mother stopped talking about him, so I started talking about everything. It's a system." —
+  the most alive warden; write her warm, spend her whole.
+- **Kiln** (the correction, for the record): "Correction. I was frozen for the descent. I
+  have no memory of the descent." / **Frame**, writing: "Noted. Both entries stand." — the
+  scene's coldest object is her pen doing its duty.
+- **Frame** (the truce): "My writ doesn't swim, and it doesn't walk either. I'll see the
+  thing my trooper walked to. After that we'll discuss jurisdiction."
+- **Elo** (asked, once, by Gale's corporal, where Gale went — the grammar holding under
+  grief): "Nightward." / "Is she all right?" / "She wasn't taken." — no lie, no *why*, and
+  the exact size of the available comfort.
+
+### Game content pack
+
+**Locations**: POD 130 interior (the chamber piece: one room, free movement, NPC clusters,
+the port with the tear outside), the morning ice (forensic scene: the prints, the reset
+ridge-lines, both parties' erased tracks).
+
+**NPCs**: everyone already aboard; no new faces (design law holds). Gale exits the cast
+here; her corporal (Sess) inherits her ration-bar habit in later camp barks (unremarked).
+
+**Interior triggers (design)**: each interior fires by proximity + attention (stand near,
+listen); all are missable except Kiln's (mandatory — it's plot-load-bearing via Frame's
+report); a second playthrough with different positioning yields different interiors. No
+UI flags any of them, during or after.
+
+**Side quests / optional content**:
+- *The Inventory* — Vell and Corporal Sess co-audit both columns' supplies during the storm
+  (optional assist: the merge that makes ch. 16–17's shared tables possible); players who
+  help see the two ledgers literally interleaved — bureaucracy as the first peace treaty.
+- *The Window-Lamps* — POD 130's manifest line (2,000 window-lamps) is findable, unremarked,
+  missable. No bark. Forums will do the rest. (Locked from game-notes; restated here as
+  content law.)
+- *The Forensics* — the morning scene played with the recovery kit's measuring tools: stride
+  length, start-point distance (the game prints "9.0 m" in the field-notes UI and nowhere
+  else, ever).
+
+**Ambient events & barks**: the pod's steel singing at intervals; the stove-crate's crackle
+as the room's heartbeat; post-storm, the world-state edit (tracks gone, ridges re-lain) —
+the discontinuity system's loudest sanctioned use, exactly as specified in game notes.
+
+**Items, tokens & documents**: Gale's ration-bar wrapper (the token Vell enters), Frame's
+field report (paper trail — the alphabetical roster with one name struck), the interleaved
+supply ledger.
+
+**Audio priorities**: the tear (the game's biggest sound design object: the band's "volume"
+made audible — voices-adjacent texture that never resolves into words; keep it below
+identifiability or the whole book breaks); each interior's private layer mixed only within
+its trigger radius (the bell, the work-song's answer, last winter's broadcast, the
+inhabited pause); dawn's flat silence; the prints scene with no music and wind only.

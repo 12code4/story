@@ -1,6 +1,6 @@
 # Chapter 13 — Landfall in Reverse
 
-**Part III: The Sea of Static** · **Status: treatment** · Week thirteen. The great stair; first
+**Part III: The Sea of Static** · **Status: expanded treatment** · Week thirteen. The great stair; first
 days on the frozen sea.
 
 **Function**: Open Part III's register — the Sea as sensory regime change: black ice, true dark,
@@ -95,3 +95,85 @@ Voice: the player character's own lines, re-recorded tired. No UI acknowledgment
   shown; leave forever unexplained which nights his light turned. (Locked per guardrails.)
 - How much Benthos here vs. ch. 16's surfacing. (Sound only. Not even a shadow under clear
   ice — save every photon of it.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: no one learns of Solene's 0244 answer until ch. 15 (locked).
+Lighthouse silence forever unexplained (locked). The Benthos is sound-only this chapter — not
+even a shadow under clear ice (locked).
+
+### Scene list
+
+- **S1 — The stair** (the great stair, descent · all). Eight hundred hand-cut steps read in
+  reverse; risers shallowing near the top ("they were carrying their sick by then"). The
+  landing camp's postholes; the pressure-ice sea wall. Turn: stepping onto the Sea — Cistern
+  noting the date because priests do.
+- **S2 — The Sea as instrument** (first marches · all; Brakes foregrounded). Ice-song as
+  thickness-reading; ridge portage; reef-light glimpsed through clear windows, far down,
+  running nightward. Turn: nobody saying the obvious about the road-markers being below them.
+- **S3 — The knocks** (third-night camp · all). Three, an hour, two. Adder posting a
+  downward watch; Brakes ear-to-ice, deaf side up: "It's not random. It's *spaced*." Turn:
+  Kiln's heat-discipline order — camps to thick ice, stoves banked. Warmth is a broadcast,
+  understood without being said.
+- **S4 — Radio dies** (Solene's nightly set-up · Solene, Iyo nearby). The static wall, flat
+  and total. Last clean traffic: the rotation four confirmed past Saltcamp; Relay Nine
+  *absent* — carrier gone. Logged in Anser's style, no adjectives. Turn: she keeps the
+  beam-count doubt to herself.
+- **S5 — The answer** (sixth-night watch · Solene alone). The hail ritual into the wall; the
+  four-second window; her own voice, tired in a way she isn't yet, answering with her own
+  call-sign. Logged: "0244: hail answered. Voice: mine. Duration: 4s. No repeat." Wakes no
+  one. Stands the rest of her watch facing the auroral shimmer behind them. End.
+
+### Dialogue keys
+
+- **Kiln** (the stair): "Shallow risers here. They were carrying their sick by then." /
+  **Dovie**: "How d'you know?" / **Kiln**: "I signed for the stretchers." — logistics as
+  elegy; his memory precise where it's oldest.
+- **Brakes** (ear to ice): "Not random. Spaced. Something down there paces like we do." —
+  shining-eyed; her fear and her delight are the same organ.
+- **Adder** (posting the watch): "Watch the ice." / **Nock**: "For what, Sergeant?" /
+  **Adder**: "For watching's sake." — doctrine improvising; the Column's whole Part III
+  posture in four words.
+- **Solene's log** (the entry, verbatim): "0244: hail answered. Voice: mine. Duration: 4s.
+  No repeat." — the bravest sentence she has written; the reader knows it; no one on the
+  page does.
+
+### Game content pack
+
+**Locations**: the great stair (one continuous descent traversal — act transition), the
+Founders' landing camp (postholes, readable), the Sea's first marches (black-ice travel
+segments with the ice-song system live), night camps (thick-ice site selection now a real
+choice).
+
+**NPCs**: none — Part III's design law begins: no strangers until Ghost. The Sea is the
+first region where every voice is one the player already knows.
+
+**Side quests / optional content**:
+- *Ice Literacy* — Brakes teaches pitch-reading as a playable calibration (walk, listen,
+  mark safe line); thereafter route-finding on the Sea is audio-led; the skill is real and
+  the Sea occasionally lies (authored, rare, always survivable — the lie is for dread, not
+  damage).
+- *The Downward Watch* — optional camp verb from tonight on: sit the ice-watch with any
+  party member; each pairing has one Sea-specific conversation (write all of them — this is
+  the Part III character-time budget; the knocks punctuate at authored intervals).
+- *The Hail* — the nightly radio ritual formalized as an interaction: call, wait, log.
+  No reward, ever, except the night it answers (scripted, S5). The player's log entry is
+  auto-written in Solene's style; the game never references it again.
+
+**Ambient events & barks**: ice-song running away to the horizon (audio spectacle);
+reef-light windows (lean over, look down — optional awe with no prompt); the knocks
+(positional, untargetable, unanswerable); the last Verge-band traffic fading segment by
+segment until the wall is total.
+
+**Items, tokens & documents**: the stair survey plate (Founders' engineering marks —
+readable), Solene's Sea log (paper trail source), thick-ice auger (camp tool — Old Say's
+"long augers" from ch. 4 paying off; his foresight noted by nobody but the player who
+remembers).
+
+**Audio priorities**: the Sea's bed (wind over ice — vast, dry, unvaried; make emptiness a
+presence); ice-song (tuned, musical, load-bearing for navigation); the knocks (sub-bass,
+patient, *spaced*); the static wall (Solene's board: full-band hiss with texture — "the
+band isn't empty" is next chapter's line; seed the mix now); her own voice answering —
+recorded by the same actor, directed tired.

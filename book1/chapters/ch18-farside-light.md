@@ -1,6 +1,6 @@
 # Chapter 18 — Farside Light
 
-**Part III: The Sea of Static** · **Status: treatment** · Week twenty-two. The Vein; the far
+**Part III: The Sea of Static** · **Status: expanded treatment** · Week twenty-two. The Vein; the far
 shore; first sight of Farside Landing. Part III finale.
 
 **Function**: The act-out: after the Sea's worst, its one gift — warmth rising through ice,
@@ -92,8 +92,9 @@ Maintenance is the book's word for love; the Night Country has it.)
 
 **The Founders' shore cairn, full inscription** (rubbing taken by Vell, his last archival
 act before the town): HERE THE SEA GAVE US BACK — and below, in the smaller second hand
-the Column last saw on the Reachgate's pillar: *"— some of us."* Under both, fresh,
-chalked, in a child's letters, a tally-game grid, mid-game.
+the Column last saw on the Reachgate's pillar: *"— some of us."* (The child's chalk
+tally-game moved to a quay-post in ch. 19 per the content pass — the cairn carries only
+its two carved lines.)
 
 ## Game notes
 
@@ -118,3 +119,94 @@ achievement. (Never an achievement.)
 - Does Frame get a beat at the rise? (Current: yes, silent — she uncovers her lamp
   twice at the far lights. Warden line-courtesy, offered to a town her writ says is
   180 years dead. It's her whole arc in one gesture; keep it wordless.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the child's chalk-tally moved off the shore cairn to a quay-post
+in ch. 19 (locked — the cairn carries only its two carved lines). Frame's wordless double
+lamp-uncover at the far lights kept (locked). Elo's curtain line kept pending cold-reader test
+(it must read as scope, not clue).
+
+### Scene list
+
+- **S1 — The Vein found** (warming ice · all). Ghost's route proving out: ice-song rising in
+  pitch, mist standing in seams, and the first clear window — the lantern reefs no longer
+  kilometers down but rising along a warm ridge. The Column walks a glass floor over a lit
+  country. Turn: Brakes lying down on the ice, deaf ear down; getting up; not reporting;
+  her hands keeping time at her sides. Stated once.
+- **S2 — The shore** (the ice-foot, the coast · all). "The ice climbs ashore": rafted plates
+  against black land. The last Sea camp struck in named reluctance — the crossing had become
+  comprehensible; the land ahead has no tables yet. Kiln's final full briefing at the shore
+  cairn (HERE THE SEA GAVE US BACK / "— some of us."). Turn: Iyo watching Elo watch the
+  wardens check weapons — a host watching guests bring umbrellas indoors.
+- **S3 — The sound** (the Vein shore-path, two days in · all). Reef-light bright enough for
+  lamps-down walking; faces lit from below. The wind shifts: metal on metal, rhythmic; a
+  dog barking; then — unmistakable — children. Playing. A game with rules, in the absolute
+  dark. Turn: Adder sitting down on the sledge. Nobody comments.
+- **S4 — Elo in front** (the shore-paths · all). Swept paths now; junctions; and the marching
+  order changing without an order: Elo walking to the front and leading, courteous at every
+  fork. Iyo at his shoulder: "Are you going home?" / "I was sent to fetch. I'm coming back
+  with everyone I was sent for." Beat. "You were all so slow. It was rude of the sea to
+  keep you." — the sea, filed under things with manners.
+- **S5 — The lights** (the last rise · all). Farside Landing across a black harbor: terraced,
+  lamp-strung, bell tolling its own schedule, figures on the quays, fishing lines staked
+  down into the reef-country. Frame uncovers her lamp twice at the far lights. Iyo counts
+  the lamps on the far shore — and gets the same number twice, which hasn't happened since
+  Hearthfall, and cries. End of Part III.
+
+### Dialogue keys
+
+- **Kiln** (the shore briefing, terrain-armor): "The settlement is rumor until it is
+  terrain. We treat it as terrain. Terrain has never once lied to me." — and the reefs
+  glow under everyone's boots while he says it.
+- **Adder** (after the children's sound, eventually, to no one): "Cinder Row keeps its
+  forms." Beat. "This one's keeping *recess*." — the veteran's instrument overloading in
+  his own vocabulary.
+- **Iyo / Elo** (the curtain exchange, locked from treatment): "Elo. Are you going home?" /
+  "I was sent to fetch. I'm coming back with everyone I was sent for." / "…You were all so
+  slow. It was rude of the sea to keep you."
+- **Ghost** (at the rise, contentedly, the mail-carrier's register): "There she is. Mind
+  the bell — they ring it for themselves, not for you. Takes getting used to."
+- **Solene** (lamps-down, faces underlit, quietly to Iyo): "I keep waiting for it to feel
+  wrong." / **Iyo**: "It will." / (beat) / **Solene**: "It doesn't." — Part III's exit
+  wound in six lines.
+
+### Game content pack
+
+**Locations**: the Vein approach (ice-window traversal — the lighting showcase: reef-glow
+through glass ice, lamps-down navigation as the mechanic inversion), the shore (ice-foot
+climb, the cairn), the shore-paths (swept, cairned, junctioned — made road in the dark),
+the last rise (the vista).
+
+**NPCs**: none met before the rise (the sounds are the chapter's population: hammer, dog,
+children — positional audio long before any figure renders). Ghost transitioning to
+walking-home mode; Elo to point.
+
+**Side quests / optional content**:
+- *Lamps Down* — the inversion tutorial: the game has trained light=safety for two acts;
+  the Vein teaches dimming to see (reef-light navigation). Fully optional to resist —
+  players may keep lamps up and navigate worse; one Ghost bark if they do: "You're
+  shouting, friend. Nobody minds. But you're shouting."
+- *The Windows* — authored ice-windows along the approach, each a composition (reef fans,
+  a current-borne drift of benthic motes, once — far down, at the edge of render — a
+  moving largeness no prompt acknowledges). Look or don't.
+- *The Cairn* — the shore cairn's rubbing (Vell's last archival act); both carved lines
+  readable; the player may add the Column's own line with the chisel (free text, 24
+  characters, kept in the save and shown again in ch. 24's return). Or leave it unmarked.
+
+**Ambient events & barks**: ice-song pitch rising as the water warms (the navigation system
+retuning under the player — taught skill drifting, deliberately); the first dog bark
+(every Verge player character reacts; Tapper's head tracks it for a full minute); the
+children's sound (subtitles OFF for it until the halt beat, per game notes law).
+
+**Items, tokens & documents**: the cairn rubbing (paper trail), the Column's optional
+carved line, Ghost's maps (now visibly *ending* at Farside on the chart UI — "end of my
+maps" pre-loaded as image before ch. 19 says it).
+
+**Audio priorities**: the Vein's new bed (water moving under ice — the Sea's dry silence
+ending); reef-glow given a sound (sub-audible warmth, felt-not-heard; mix trick: a low
+sine that stops when lamps go up); the children (the game's most dangerous audio cue —
+cast real children, direct them happy; the horror is 100% context); Iyo's lamp-count at
+the rise (her breath-count VO, twice, same cadence — and the small break in it).
