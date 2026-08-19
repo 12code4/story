@@ -41,7 +41,8 @@ changes, and what is waiting at the ship.
 | `book1/04-outline.md` | The 26-chapter map: parts, one-paragraph chapter summaries |
 | `book1/05-game-notes.md` | Adaptation notes: regions, systems, side quests, endings |
 | `book1/06-deferred.md` | The parked mysteries + anti-pattern guardrails (do not mine yet) |
-| `book1/chapters/chNN-*.md` | One treatment per chapter: beats, character tracking, dread beat, game notes |
+| `book1/chapters/chNN-*.md` | One expanded treatment per chapter: beats + scenes, dialogue keys, and a game content pack (NPCs, side quests, items, audio) |
+| `book1/07-manifest-roster.md` | The Manifest of the Missing: canonical carried names, tokens, resolutions, doors |
 | `game/00-storyboard.md` | Game storyboard: loop, the 8 screens, Chapter 1 slice in ten frames, act flow |
 | `game/01-preproduction-plan.md` | Phased plan with gates and the five Gate A decisions (awaiting approval) |
 

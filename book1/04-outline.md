@@ -1,7 +1,10 @@
 # Book One: The Walked — Chapter Map
 
 26 chapters, four parts. Each chapter has a full treatment file in `chapters/`. Status of all
-chapters: **treatment** (beats fixed enough to see, loose enough to change cheaply).
+chapters: **expanded treatment** (content pass done: scene lists, dialogue keys, and game
+content packs — locations, NPCs, side quests, ambient events, items, audio priorities — appended
+to every chapter; several open questions resolved and locked, the rest still flagged). Next
+status up is **draft** (prose). The canonical quest spine lives in `07-manifest-roster.md`.
 
 Between every pair of chapters sits one **paper-trail document** (log, letter, writ, manifest) —
 named in each chapter file. They carry the off-camera voices (home politics, Frame's pursuit,
