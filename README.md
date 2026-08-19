@@ -45,6 +45,10 @@ changes, and what is waiting at the ship.
 | `book1/07-manifest-roster.md` | The Manifest of the Missing: canonical carried names, tokens, resolutions, doors |
 | `game/00-storyboard.md` | Game storyboard: loop, the 8 screens, Chapter 1 slice in ten frames, act flow |
 | `game/01-preproduction-plan.md` | Phased plan with gates and the five Gate A decisions (awaiting approval) |
+| `series/00-series-arc.md` | The tetralogy: escalation logic, truth-braid proposal (not locked), motif ledger |
+| `series/book2-the-woken.md` | Book Two plan: full premise, cast, and a provisional 26-chapter map |
+| `series/book3-the-burned.md` | Book Three plan: the Glare crossing — premise, five parts, costs, ending target |
+| `series/book4-the-kept.md` | Book Four plan: the settlement — premise, ending options, the answers ledger |
 
 ## How we work (chapter-to-chapter refinement)
 
