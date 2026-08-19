@@ -1,6 +1,6 @@
 # Chapter 9 — Lighthouse 9
 
-**Part II: The Grey Reach** · **Status: treatment** · Week eight. The last crewed radio relay.
+**Part II: The Grey Reach** · **Status: expanded treatment** · Week eight. The last crewed radio relay.
 **Side-quest chapter** (detour off the retreat path, taken for the mast).
 
 **Function**: The book's first pure side quest: one location, one stranger, one fix, one ask.
@@ -92,3 +92,85 @@ regions — a lit thing behind you, until ch. 13.
 - Whether Solene sends the families' queued messages here or the mast fails partially —
   (Current: everything sends clean. The Column's last unambiguous contact with home should be
   *good*, so its loss has weight.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the Year-176 log line softened to the reflector phrasing
+(locked: "the beam found a reflector where no reflector is charted"). Anser knows Elo is a
+returner instantly and reacts by setting another place (locked, no dialogue about it). All
+family messages send clean (locked — the Column's last good contact stays good).
+
+### Scene list
+
+- **S1 — The detour argued** (route fork · Solene, Kiln, Vell). Two days' cost vs. the mast
+  and the courtesy owed. Turn: Kiln grants it for the mast; Solene hears the real reason
+  (courtesy) under it and files what command sounds like.
+- **S2 — Arrival** (the lighthouse approach · all + Anser). The tower against the grey; the
+  guest book with three entries in eleven years. Anser's over-clear voice, rationed for years.
+  Turn: the extra place set at table before anyone's counted heads.
+- **S3 — The keeper's house** (interior · Anser hosting). Brass, logs, the window-lamp with
+  its list of one name ("My relief. He walked. I stayed on."). Eleven years of discipline
+  against an audience of static.
+- **S4 — The lens** (lamp room · Brakes, Old Say, Anser assisting). The bearing rebuild — the
+  book's fullest engineering sequence; Brakes tuning the rotation by feel, humming the
+  interval, exact by Old Say's gauge. Turn: Old Say's grunt (a parade, from him).
+- **S5 — The night watch** (radio room · Solene alone). Traffic home: Column status, the
+  families' queued messages, Saltcamp's price-wire. The bottom-of-band carrier, logged in
+  Anser's style: no adjectives. She wakes no one. Turn: the entry costing her something to
+  write.
+- **S6 — The ask** (parting, tower base · Anser, the Column). Logs for the archive; the
+  relief application, eleven years out of date. "No hurry. But if someone were coming, I'd
+  want the paperwork in order." Exit: the beam sweeping out over the Reach toward the dark;
+  Iyo counting rotations without deciding to.
+
+### Dialogue keys
+
+- **Anser** (rationed voice): "Mind the second stair. I've meant to fix it since the year I
+  meant to fix it."
+- **Anser** (the list of one): "My relief. He walked. I stayed on." — complete; nothing else
+  is ever offered; nothing else is needed.
+- **Brakes** (tuning): "Hear that? No — *there.* When she stops complaining and starts
+  agreeing." / **Old Say**: grunt. / **Anser**, reverent: "It hasn't agreed in six years."
+- **Solene's log** (read aloud to herself, testing it): "Carrier present, no modulation.
+  Bearing nightward. Very old equipment—" beat "—or very good." — the hesitation is the entry.
+- **Anser** (the ask): "No hurry. But if someone were coming, I'd want the paperwork in
+  order." — a decade of thinking in one sentence of administration.
+
+### Game content pack
+
+**Locations**: the tower (base, keeper's house, spiral stair, lamp room, gallery), the mast
+shed (radio set-piece), the sea-facing gallery (the beam interactive).
+
+**NPCs**: Anser (recurs ch. 24 changed — cheerful, no memory of the application, "I'm wanted
+here"; recurs ch. 26 as a logged line only). Keeper Bole (the relief who walked, Y171) exists
+as the list-of-one and as a possible rack-census face in ch. 22 (game-only, unremarked).
+
+**Side quests / optional content**:
+- *The Bearing* — the flagship crafting set-piece (multi-stage: strip, cast a bushing from
+  salvage, seat, tune-by-hum). The tune stage is audio-led: match Brakes' hum, not a gauge
+  needle. Completing it perfectly (rare) earns Old Say's second grunt — tracked, referenced
+  once in his ch. 16 tent scene ("you were there for the lens; mind the spans the same way").
+- *The Night Watch* — playable radio sequence: send every queued family message (each one a
+  found-text miniature — write 8–10 of them); the unlisted carrier findable at the band's
+  bottom edge, loggable, never referenced by any system again.
+- *The Guest Book* — read the three entries (Y168 a Provender survey team; Y171 the relief's
+  arrival entry in Bole's hand — his handwriting stops mid-signature; Y176 a scav crew,
+  two words: "still lit"). Sign it or don't; Anser checks, either way, from the gallery.
+- *The Second Stair* — fix it. One minute of trivial carpentry. Anser stands in the doorway
+  not-watching with his hands behind his back. The game's cheapest, most effective kindness.
+
+**Ambient events & barks**: the lens's grind → sweetness (before/after audio state the whole
+location shares); the beam's pass over camp (light sweeping the player's shadow long, every
+40 seconds, all visit — metronome of the place); Elo and Anser's mutual professional ease
+(barks only: two lonely trades recognizing each other).
+
+**Items, tokens & documents**: the eleven years of logs (archive crate — paper trail source),
+the relief application (quest item with three meaning-states: carried → ch. 24 disavowed →
+ch. 25 filed anyway), the bushing (crafted), guest-book page.
+
+**Audio priorities**: the grind-to-true transition (the chapter's emotional spine in one
+sound); the beam's mechanical breath; the radio room at night (band wide open — the last
+clean signal-scape before the Sea eats everything); Anser's voice warming by measurable
+degrees across the visit — direct the VO that way.

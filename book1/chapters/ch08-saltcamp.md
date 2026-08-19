@@ -1,6 +1,6 @@
 # Chapter 8 — Saltcamp
 
-**Part II: The Grey Reach** · **Status: treatment** · Week seven. Saltcamp: the Provender's
+**Part II: The Grey Reach** · **Status: expanded treatment** · Week seven. Saltcamp: the Provender's
 market town in the salt dome.
 
 **Function**: The Reach's human civilization, and the book's first true ethics fracture. Mother
@@ -92,3 +92,88 @@ and feel sick, which is the correct hit rate.
 - Whether the two-adolescent choice (buy one, log one) is a beat too cruel to leave offstage —
   the logged one's name goes in the Manifest case, and ch. 25 has to answer for it. (Leaning:
   yes, keep, and yes, answer for it.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Quill's bow to Elo stays silent (locked). Tam's mercy kept and
+priced — the kit allotment Iyo spends is flagged in Vell's ledger and its absence bites at the
+Lead (locked). The Delf siblings locked: Tam Delf (13, bought free) and Liss Delf (16, logged,
+left) — same Marrow household; ch. 25's hardest door.
+
+### Scene list
+
+- **S1 — Met by invoice** (a day out · outriders, the Column). Hot stones delivered with
+  courtesy and a bill. Turn: Kiln pays without blinking and tips — establishing the Column's
+  Saltcamp posture: fluent, not naive.
+- **S2 — The dome** (Saltcamp tiers · all). The salt cavern: lamp-strung, warm-pocketed, the
+  thermometer wall as market board, breath visible outside the paid zones. Manners as load-
+  bearing architecture.
+- **S3 — Supper with Mother Quill** (her table · Quill, Kiln, Iyo, Vell, Factor Awl serving).
+  Excellent food, itemized after. Her fluency in everything including their manifest. Turn:
+  the free advice ("nobody's wicked; everybody's warm or not warm — start your sums there").
+- **S4 — The stock** (the pens · Iyo, Cistern, Adder, pen-keeper). Twelve walkers held for
+  reclamation fees; the two Delf adolescents. Iyo performs the rote as welfare-check; it runs
+  *soft*. Turn: the old man's audit — "You're taking too long. They can hear the difference
+  now." Stated once.
+- **S5 — The fracture** (rented warm-pocket · the Column). The argument, breath fogging at the
+  paid heat's edges. Adder (open the pens) vs. Cistern (buy the children) vs. Vell (the
+  allowance) vs. Kiln (mission-first). Turn: Brakes' collar line — "You get used to the
+  arithmetic. That's the bad part." Ruling: buy Tam, log Liss.
+- **S6 — Departure with strings** (dome gate, price-tiers · all + Quill). Tam folded into the
+  teamsters; Quill's gifts (route sketch, the sealed letter "for the bridge"); the bow to Elo.
+  Exit: walking out of the warmth tier by tier, until the door and the free cold.
+
+### Dialogue keys
+
+- **Mother Quill**: "An antique! And still walking. Sit by me, Warrant Officer — I collect
+  things that outlive their warranties."
+- **Quill** (the thesis): "Out here, dear, nobody's wicked. Everybody's *warm or not warm*.
+  Start your sums there and you'll never be surprised."
+- **The pen-keeper** (professional, not cruel, worse): "They're no trouble. Best stock there
+  is. Feed them, warm them, they wait. It's the families that bite."
+- **The old man in the pens**: "You're taking too long. They can hear the difference now." —
+  the craft audited from the other side; files next to "you counted wrong."
+- **Brakes**: "You get used to the arithmetic. That's the bad part."
+- **Quill** (parting, re: the letter): "Give this to the bridge. The Mother's love and the
+  Mother's rates are different ledgers — but they do both exist, dear."
+
+### Game content pack
+
+**Locations**: the approach road (outrider meeting), the dome (three price tiers, vertical
+market; the thermometer wall as diegetic market UI), Quill's table, the pens (a designed
+moral space — reachable, walkable, never gated), the warm-pocket (one-room argument scene),
+the gate tiers (the walk-out staging).
+
+**NPCs**: Mother Quill (recurs chs. 11-by-letter, 24), Factor Awl (her steward; dry, loyal,
+keeps the real books), the pen-keeper (one scene), the old man in the pens (one line, no
+name — locked as nameless), Tam Delf (joins to Reachgate), Liss Delf (logged; recurs at the
+racks ch. 22 census and the ch. 25 door), assorted stall-keepers (barks).
+
+**Side quests / optional content**:
+- *The Pens* — systemic: the player may spend real resources freeing stock beyond Tam. Prices
+  are deliberately unaffordable at scale (design honesty: you can save one, maybe two; the
+  game must not balance mercy into affordability). Each freed walker is a ch. 25 door changed.
+- *Quill's Commissions* — her notice board: three fetch/appraise errands in the dome (a scale
+  recalibration for Awl, a dispute priced between stall-keepers, a "delivery" that turns out
+  to be a walker's reclamation payment from a Verge family — the player carries someone's
+  ransom and feels the trade from inside).
+- *The Glossary Corrected* — show Brakes' glossary around the market; two entries corrected
+  with mockery; unlocks accurate toll-reading for ch. 11 (mechanical payoff: the player can
+  price the bridge before the scene starts).
+- *The Thermometer Wall* — optional literacy: learn to read the market board; thereafter all
+  Provender pricing in the game displays diegetically (numbers on boards, never in menus).
+
+**Ambient events & barks**: breath-fog boundary-crossing (players physically see the paid
+zones); stall barks pricing everything including rumors ("two tokens; one if it's about you");
+a child stock-runner delivering warm stones with terrifying professionalism.
+
+**Items, tokens & documents**: therm-tokens (currency established), the route sketch (chart
+overlay), the sealed bridge letter (quest item, ch. 11), the Saltcamp invoice + Vell's
+objection memo (paper trail), Tam's reclamation receipt (Vell files it; it resurfaces ch. 25
+when he pays Liss's lien — same form, other sibling).
+
+**Audio priorities**: the dome's acoustics (voices under salt — close, dead, intimate); the
+thermometer wall's tick; the pens' quiet (the stock don't speak; the horror is good animal
+husbandry sounds applied to people); Quill's voice — warm, unhurried, never once raised.

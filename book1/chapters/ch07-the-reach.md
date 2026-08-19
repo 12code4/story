@@ -1,6 +1,6 @@
 # Chapter 7 — The Reach
 
-**Part II: The Grey Reach** · **Status: treatment** · Weeks four–six. Into the Reach proper:
+**Part II: The Grey Reach** · **Status: expanded treatment** · Weeks four–six. Into the Reach proper:
 ruins of the Founders' retreat, first Provender signs.
 
 **Function**: Open Part II's register — archaeology of their own trauma. The Column starts
@@ -80,3 +80,78 @@ Kiln's slip should be a bark the player can miss — no cutscene framing.
   Kiln pricing it: "Four hundred kilos. Someone loved it enough to carry it eleven days.")
 - Whether Ossa (the grave name) should recur in Kiln's ch. 15 storm-interior. (Leaning yes —
   as texture, not thread: per guardrail 5, some particulars just stay vivid.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the piano kept, with Kiln pricing it (locked). Ossa recurs in
+Kiln's ch. 15 storm-interior as texture only (locked). Provender stay signs-only until Saltcamp
+(locked).
+
+### Scene list
+
+- **S1 — Reading the road** (the retreat path, days · all; Kiln narrating). Cache cairns at
+  day-spacing, then half-day, then irregular — exhaustion legible in geometry. The shed-weight
+  strata; the piano's carcass. Turn: "Four hundred kilos. Someone loved it enough to carry it
+  eleven days."
+- **S2 — The cache** (sealed Founders' cache · Kiln, Cistern, Vell, Adder, Iyo). The debate:
+  provision, piety, or market-feed. Turn: Kiln's threaded ruling (medical stock out, reseal,
+  log). Vell logs it; the log returns ch. 24.
+- **S3 — Graves** (cairn-row campsite · all). The double ritual forming: Iyo squares markers,
+  Cistern says the shortened Office; it becomes trail-habit, wordless. Turn: **the slip** —
+  Kiln calls Solene "Ossa," asks her to "log the grave properly this time." Two seconds.
+  Solene answers to it. Nobody comments.
+- **S4 — Residents** (trail, two days · all). Fresh sledge-cuts; a re-stacked cairn in foreign
+  convention; a light pacing them for half a day. Brakes starts the trail-code glossary out of
+  professional irritation. Turn: the therm-token arrow nailed to a post — *this way to market* —
+  with prices.
+- **S5 — Inventory** (overhang camp, Founders' soot · all). The Column does what its people do
+  with fear: inventory. Turn: Dovie asks Elo directly if the road ahead is dangerous. "Not to
+  me." Then, kindly: "You'll be looked after." The fire pops. End.
+
+### Dialogue keys
+
+- **Kiln** (reading spacing): "Day-camps here. Then half-days. Here they stopped burying and
+  started marking. You can read a retreat like a pulse."
+- **Cistern** (cache debate): "It says *for those who come after.* We are those. That's not
+  theology, Warrant Officer, it's addressing."
+- **Vell** (logging): "Withdrawn: medical, 11 kilos. Basis: need. Authority: Kiln. Witness:
+  all of you." — reading his own entry aloud so the ethics have a record; his defining habit.
+- **Brakes** (glossary, muttering): "Two stones crossed means toll. Three means *toll went
+  badly for someone.* Lovely country."
+- **Elo** (the exit line, locked from treatment): "Not to me." / "You'll be looked after."
+
+### Game content pack
+
+**Locations**: the retreat path (travel segments with authored strata: furniture field, tool
+field, the cradle kilometer, the piano), the sealed cache (interior interaction space), the
+cairn-row campsite, the overhang camp (Founders' soot on the ceiling — lie-on-back viewable).
+
+**NPCs**: none met — the Reach's residents exist this chapter as *signs* (design rule). The
+pacing light is an unresolvable ambient (never sourced, never repeated).
+
+**Side quests / optional content**:
+- *The Cache Ledger* — full cache interaction: itemize before withdrawing (the player performs
+  Vell's ethic mechanically); resealing properly is a small craft interaction; done right, the
+  ch. 24 return-state shows the Column's own surplus added and a stranger's tally mark added
+  beneath Vell's.
+- *Marker Duty* — squaring grave-markers along the route (repeatable micro-verb; each squared
+  marker fires one line of Kiln's memory — a name, a trade, once a joke). Optional, unlimited,
+  unrewarded. Players who do them all get nothing but the memories. Correct.
+- *The Glossary* — collect trail-code sightings to fill Brakes' glossary (v1 has two wrong
+  entries by design; Saltcamp NPCs correct them if the player shows it around — literacy
+  through embarrassment).
+
+**Ambient events & barks**: the pacing light (one half-day travel segment, never explained);
+sledge-cut fresh/old reading (Adder teaches it in barks); the cradle kilometer (all barks
+suppressed for its duration — the audio does the grief).
+
+**Items, tokens & documents**: medical stock (real supply value), the glossary v1 (usable
+document that upgrades), cache manifest page, the therm-token arrow (one token pryable —
+Saltcamp currency preview; taking it is noted by nobody and remembered by the toll-clan's
+ledger in ch. 11: "one token, returned or owed").
+
+**Audio priorities**: wind through hull-plate markers (each cairn a slightly different chord —
+the Reach's sound signature); the piano's strings still faintly live in gusts (one sting,
+found not scored); Kiln's narration recorded close and dry.

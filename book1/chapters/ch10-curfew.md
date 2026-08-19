@@ -1,6 +1,6 @@
 # Chapter 10 — Curfew
 
-**Part II: The Grey Reach** · **Status: treatment** · Week nine. Cinder Row, the town frozen in
+**Part II: The Grey Reach** · **Status: expanded treatment** · Week nine. Cinder Row, the town frozen in
 the Rimwars. **Side-quest chapter — Adder's.** No combat. The book's centerpiece horror set-piece
 and its centerpiece moral scene, and they are the same scene.
 
@@ -98,3 +98,85 @@ is the game's most expensive single animation. Spend it.
 - Whether "abated" recurring in Frame's writ (ch. 11) is too neat a rhyme. (It's the same
   state, same vocabulary — bureaucratic continuity, not authorial wink. Keep, but never
   lampshade; nobody on the page connects the words.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Tam's near-touch kept, stopped by Elo's hand (locked — one
+beat, no dialogue; it does not steal Adder's chapter, it proves the town's rules bind even
+mercy). The child-silhouette stays at exactly one sentence (locked). "Abated" recurs in
+Frame's writ unlampshaded (locked).
+
+### Scene list
+
+- **S1 — The route problem** (map council at camp · Kiln, Adder, Vell, Iyo). Six days around
+  or one day through. Vell's tables side with the terrible choice. Turn: Adder's formal
+  request to walk point; Kiln's grant, the unmentioned service file between them.
+- **S2 — The marker** (town approach · all). The struck-through name; *"abated, Y.161."*
+  Nobody explains it to Tam. Turn: the first bell heard from outside the town — on schedule.
+- **S3 — The walk-through** (Cinder Row main street · all, single file). The held-breath town:
+  ice-glazed windows, doors shut, the rounds. The sweeping woman; the two men's corner
+  greeting; the child's silhouette at the fence, one sentence. Turn: the traffic *making
+  room* — a funeral being let by.
+- **S4 — The junction house** (heat-main valve station · Adder foregrounded, all present).
+  The four wheels, still shut. The confession: orders, compliance, thoroughness ("I checked
+  them twice. I have always been thorough."). The service: clean, grease, dress, leave shut.
+  Turn: penance in his only language, performed before both congregations.
+- **S5 — The nod** (far gate · all + the watcher). The one figure who watches; the stand; the
+  nod — the community nod, neighbor to neighbor after a hard day's work. Exit: Cistern's
+  broken-doctrine line ("They kept the forms. Nobody taught them that."), said to himself,
+  and the Column walking out lighter and worse.
+
+### Dialogue keys
+
+- **Adder** (the request, formal): "Permission to walk point through Cinder Row, Warrant
+  Officer." / **Kiln**: "Granted, Sergeant." — two ranks carrying a whole unspoken file.
+- **Adder** (the confession's spine): "The order said abate. The main said four wheels. I
+  checked them twice." Beat. "I have always been thorough." — the horror is the virtue.
+- **Tam** (whispered, stopped by Elo's hand at a shut door): —no line. Elo's hand, and Elo's
+  small headshake, host-polite: *not in someone's house.* No dialogue (locked).
+- **Cistern** (exit line, doctrine dying): "They kept the forms. Nobody taught them that.
+  They *kept the forms*."
+- **Kiln** (only line in the town, at the junction house, quietly, to Adder): "Take the time
+  you need. We are not late for anything." — command as witness.
+
+### Game content pack
+
+**Locations**: the approach road + marker, Cinder Row main street (the schedule-town: a real
+in-game clock drives the rounds; the curfew bell is readable with ch. 1's bell-code
+literacy), side lanes (optional, riskless, awful), the junction house (interior; the four
+wheels), the far gate.
+
+**NPCs (the town)**: the sweeping woman, the corner men, the fence child (silhouette), the
+watcher on the stoop — authored round-walkers with fixed schedules; no collision with the
+player beyond *making room*. Design rule: they never react to being blocked; they reroute,
+courteously, which playtests will confirm is worse.
+
+**Side quests / optional content**:
+- *The Rounds* — purely observational: the player may follow any round-walker for a full
+  cycle; doing so unlocks nothing but a bark from Adder at camp ("You watched the sweeper.
+  Her name was Ede. She sold kindling."). He knows their names. All of them. That's the
+  optional content: finding out he knows.
+- *The Valve Service* — Adder's rite as the game's slowest interaction: clean, grease, dress,
+  leave shut — four wheels, four deliberate input sequences, no skip. (Player agency is
+  witnessing done properly.)
+- *Curfew Discipline* — systemic: lamps above trail-limit or voices above whisper do
+  *nothing*, visibly, ever. The game logs it silently. One line at camp if broken: Elo,
+  mild, "They heard. It's their town. They minded their manners; we'll mind ours." Nothing
+  else, ever. (The absence of consequence as the consequence.)
+
+**Ambient events & barks**: the bell keeping schedule (better time than the Column's
+chronometer — one Brakes bark, once); snow drifting back onto the swept stoop; the corner
+greeting held one beat longer as the Column passes; all party barks whisper-mixed inside
+town bounds.
+
+**Items, tokens & documents**: the abatement order + Hall annotation (paper trail — the two
+stapled documents), Adder's tool-roll (his valve kit gets a visible wear-state after this
+chapter, permanent), no takeables inside the town (design law: nothing in Cinder Row can be
+picked up; the interact prompt simply doesn't appear).
+
+**Audio priorities**: the bell (the ch. 1 code vocabulary, wrong town); shut-door sounds
+settling at curfew (behind the glass: movement stilling — foley, never voices); the wheels'
+grease-and-turn under Adder's breathing; the exit silence — the town does not resume behind
+them until the far gate closes the mix.

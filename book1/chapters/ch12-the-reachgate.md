@@ -1,6 +1,6 @@
 # Chapter 12 — The Reachgate
 
-**Part II: The Grey Reach** · **Status: treatment** · Week twelve. The Founders' arch at the
+**Part II: The Grey Reach** · **Status: expanded treatment** · Week twelve. The Founders' arch at the
 cliff edge above the frozen sea. Part II finale.
 
 **Function**: Threshold, rotation, and the book's first on-page failed recovery. The rote breaks;
@@ -113,3 +113,90 @@ descent, the Reach's grey light going out above, the Sea's black opening below.
   farm cheap dread from them.)
 - The unattributed underline in the watch log: leave forever unattributed. (Locked. It's the
   Column's whole heart in one stroke of ink; naming the pen would spend it.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Kiln's declination printed in full (locked — it is forty words
+and it is his character in amber). The watch-log underline stays forever unattributed (locked).
+The rotation four's safe arrival is confirmed early in ch. 24's radio traffic (locked — no
+cheap dread farmed from them). The second Reachgate carving kept pending cold-reader test.
+
+### Scene list
+
+- **S1 — The arch** (Reachgate, cliff head · all). WE CARRIED FIRE OUT OF THE NIGHT; the
+  survivor tally (1,407); the smaller second line ("and left it burning behind us"). The sea
+  wind coming up the cliff. Turn: reading their own errand in reverse on their ancestors'
+  monument.
+- **S2 — The rotation** (the arch camp · all). Four home with Tam: Marta, Harrow, Sung, Ferro.
+  Tools exchanged, loads re-rigged, no speeches; Marta takes Pell's spare gloves for the Dray
+  mother; the mail and Vell's sealed pouch (the reader clocks the pouch). Turn: watching the
+  last people who can still turn around, turning around.
+- **S3 — The answer** (the mast, last high-power window · Kiln, Solene, all). Receipt
+  confirmed; recall declined on the freight ledger's authority; position appended; "Column
+  proceeds. Kiln, W.O., CV Errand." He burns the transcribed writ at the arch — an officer
+  clearing his desk. Turn: Vell watching the paper burn, doing long division.
+- **S4 — Corun** (past the lamp-ring, night · Iyo, Corun; Adder arriving late). The rote
+  deploys; the negotiation in Pell's voice ("we're only going down to look; you can count us
+  both back after"); the count coming apart from the inside; forty paces that were four; the
+  stair; gone. Turn: the number held in her mouth with no way to say it. (We never print it.)
+- **S5 — Under the arch** (dawn-bell · all). No pursuit — everyone including Iyo knows he is
+  not on the stair. Cistern amends the Manifest; Pell's knife-entry moved to Corun's line.
+  The Column passes under; Elo pauses beneath it a half-second, like a man touching a
+  mezuzah. End of Part II.
+
+### Dialogue keys
+
+- **Kiln** (the declination, in full, logged): "Receipt of Writ 4471-C acknowledged. Recall
+  declined. The reserve cores are ship's cargo; I am ship's officer; the Compact's writ does
+  not extend to another vessel's manifest. Position appended. Column proceeds. Kiln, W.O.,
+  CV Errand."
+- **Marta** (taking the gloves): "I'll tell her he wore through the first pair working." —
+  the rotation's whole dignity in one planned kindness.
+- **Corun** (in Pell's cadence, warm): "We're only going down to look, Iyo. You can count us
+  both back after." — the book's engine seizing; reasonableness as horror.
+- **Adder** (finding her on the top step, quiet): "Ballast. Inside the lamps." — not comfort,
+  procedure; procedure *as* comfort, the only kind she could survive right then.
+- **Elo** (under the arch, to no one, reversed benediction cadence): —no line printed;
+  described only. (Locked: his mouth moves; the book does not transcribe it.)
+
+### Game content pack
+
+**Locations**: the Reachgate (arch, tally pillar, cliff head), the arch camp, the mast point,
+the great stair head (the recovery-failure stage), the first switchbacks (Part III transition
+descent).
+
+**NPCs**: the rotation four + Tam (departure staging), otherwise the Column only. (The
+chapter is deliberately unpeopled — the Reach is done giving them strangers.)
+
+**Side quests / optional content**:
+- *The Mail* — assemble the homebound pouch before the rotation leaves: collect letters from
+  each Column member (each an optional one-scene conversation — what people say when they
+  might be writing their last page home; write all eleven). Player carries them to Marta;
+  the game confirms delivery in ch. 24's radio traffic.
+- *The Tally Pillar* — optional close-read of the arch: the 1,407, the second line, and
+  (interactable) the wind-worn edge where later hands added small tick-marks — uncounted,
+  unexplained, textural (parking-lot logged; never mined).
+- *Last Window* — the player keys the mast for the declination (dialogue scene with one
+  player input: send). The writ broadcast stops after this — the every-bell repetition the
+  player has lived with since ch. 11 goes silent, and the silence is worse.
+
+**The count-lie (#1 of 2, design-critical)**: Corun's recovery runs in the real recovery UI;
+mid-sequence the displayed digits begin disagreeing with the beat (the rhythm window drifts;
+numerals repeat and skip); Pell's voice plays warm and close. Failure is authored and
+unavoidable. The UI is never acknowledged afterward — no log entry, no menu note; the
+recovery tutorial text never changes. Players who screenshot it are correct and alone.
+
+**Ambient events & barks**: the sea wind's new register (Part III's bed introduced at the
+cliff); the rotation's diminishing lamps up-trail (visible for a long scripted while); moths
+absent (baseline now — no bark; the system remembers even if no one says it).
+
+**Items, tokens & documents**: Pell's gloves (given away), the sealed pouch (gone home —
+paper trail engine for Frame's act), the burned writ (ash interactable at the arch camp),
+the watch log page (paper trail: "No fault found," underlined twice, unattributed).
+
+**Audio priorities**: Pell's voice out of Corun — the ch. 3 voice-swap treatment, second and
+last use before ch. 22; the count VO decohering (layered takes drifting out of sync — the
+signature sound turned against itself); the stair's wind swallowing footsteps below; dawn-
+bell arriving thin and formal after the worst night of Part II.

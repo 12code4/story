@@ -1,6 +1,6 @@
 # Chapter 11 — The Glass Fields
 
-**Part II: The Grey Reach** · **Status: treatment** · Weeks ten–eleven. The Errand's debris
+**Part II: The Grey Reach** · **Status: expanded treatment** · Weeks ten–eleven. The Errand's debris
 corridor; the Provender toll-bridge; the first death.
 
 **Function**: The Reach's adventure-thriller chapter — terrain, scavengers, a toll, a haggling
@@ -99,3 +99,90 @@ object: audible at every camp henceforth until ch. 14, same words, every bell. L
 - Whether Solene tells the whole Column about the writ immediately or sits on it a day.
   (Current: tells Kiln first; Kiln orders it shared at once, publicly — his transparency vs.
   the Compact's, on the record.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the bolt-driver's hand locked (toll-guard's young cousin, Brist
+Tare); the blood-price driver kept — Adder carries it unloaded and visible to book's end; it
+arms nothing in ch. 14 (revised: it is *present* at the standoff, untouched — the symbol works
+harder holstered). The scav headman is one scene only (locked). Solene tells Kiln first; Kiln
+orders the writ shared publicly at once (locked).
+
+### Scene list
+
+- **S1 — The Fields** (debris corridor, days · all; Kiln narrating changed). Black glass,
+  hull ribs, six generations of pick-over. Turn: Kiln's register shift from quartermaster to
+  crew — "she lost the field spine here… she was trying to climb." The ship still crashing,
+  181 years, slowly.
+- **S2 — Scav country** (claim territory · all + Cutter Vane's crew). Etiquette of the
+  picked-over lands; the day-long shadowing as appraisal. Turn: Vane trades news for
+  stove-time — the Reach approves of the Column; and there's a warden on the road with a
+  price on their turning around.
+- **S3 — The writ on the wind** (camp, night · Solene, Kiln, then all). The storm-skip
+  broadcast: Recall and Abatement. Vell explains the legal term fully, unasked, then goes
+  quiet. Turn: Kiln's transparency order — read it to everyone, twice, and log that it was
+  read.
+- **S4 — The toll** (the Provender bridge · all + Uncle Tare's clan). The engineering marvel;
+  Quill's letter buying courtesy, not passage; the haggling — professional, tight, fine. The
+  catastrophe: a dog, the twins' bravado, a slipped load, Brist Tare's bolt-driver. **Pell.**
+  Turn: the clan's horror is real; the remedy is Provender: the toll is waived. "A cold body
+  is a discount."
+- **S5 — The funeral** (glass-field edge · all). First grave the Column digs. Brakes punches
+  the marker; Adder's rite of the tool (Pell's knife wrapped in his hands); Cistern's full
+  Office. Corun's silence begins. Exit: camp within sight of the Reachgate; Elo's condolence
+  ("He was quick. That's rare on this road."); Iyo letting it help — the chapter's last,
+  smallest wrongness.
+
+### Dialogue keys
+
+- **Kiln** (register shift): "She shed the field spine here. See the melt-line. She was
+  trying to climb." — present tense; nobody corrects it.
+- **Cutter Vane** (news for stove-time): "Reach says: about time someone went for the spares.
+  Reach also says: Hearthfall's put a price on your turning around. Both true. Reach is like
+  that."
+- **Vell** (explaining, unasked): "Abatement is the writ's word for making a problem stop
+  being administratively present." Beat. "It was also the Rimwars' word." — then quiet all
+  evening.
+- **Uncle Tare** (the waiver, wretched, formal): "No toll. Not today, not for you, not
+  ever on this span." / handing the driver hilt-first: "The boy's tool. It's yours. That's
+  the oldest law we kept."
+- **Elo** (the condolence): "He was quick. That's rare on this road." — true, useless, kind.
+
+### Game content pack
+
+**Locations**: the debris corridor (travel segments among hull ribs — the game's most
+art-directed traversal so far), Vane's claim camp (one-scene visit), the toll-bridge (span,
+toll-house, the rift under it), the grave site.
+
+**NPCs**: Cutter Vane + crew (one scene), Uncle Tare (toll-clan headman; recurs ch. 24
+bareheaded at the honor-line), Brist Tare (the cousin; recurs ch. 24 as the one who planted
+the charge-cell at Pell's grave — no dialogue either time), the toll-clan (barks).
+
+**Side quests / optional content**:
+- *Claim Manners* — cross scav territory correctly using glossary literacy (read claims,
+  share water at the neutral cairn, ask nothing about loads). Done right: Vane's crew gifts
+  a hull-shard whetstone (supply item + one bark). Done wrong: nothing hostile — prices at
+  the bridge are simply worse. (Reputation as arithmetic, never as meter.)
+- *The Spine Walk* — optional detour to the field spine wreckage Kiln named: environmental
+  storytelling only; standing at its melt-line fires his longest optional narration in the
+  game (two minutes, recorded once, missable forever).
+- *The Haggling* — the bridge negotiation as a playable scene with real stakes-math (fuel
+  vs. steel vs. hours); important design honesty: no outcome avoids the catastrophe — the
+  scripted death is downstream of the dog and the load, not of the player's deal. Post-hoc
+  guilt must be ambient, not mechanical.
+
+**Ambient events & barks**: glass singing underfoot in cold snaps (pitch-reading foreshadowed
+for the Sea); scav lamps at distance working night shifts; the writ broadcast repeating at
+every bell from S3 onward — same words, every camp, until ch. 14 (let it wear).
+
+**Items, tokens & documents**: Quill's letter (spent), the waived-toll chit (Uncle Tare
+insists on issuing paper for zero — Provender to the bone), Pell's knife (buried; **returns
+ch. 17** — inventory event), the blood-price bolt-driver (Adder's pack, visible, never
+used), the writ transcript (paper trail).
+
+**Audio priorities**: hull ribs in wind (deeper chord than the Reach's cairns); the bridge's
+cable-song underfoot; the catastrophe mixed *small* — a dog, a shout, one tool-report, then
+only the rift's wind (no music; the score's absence is the score); the funeral's
+marker-punching as the chapter's final percussion.
