@@ -1,6 +1,6 @@
 # Chapter 24 — The Return
 
-**Part IV: Night Country → home** · **Status: treatment** · Eleven weeks, compressed. The
+**Part IV: Night Country → home** · **Status: expanded treatment** · Eleven weeks, compressed. The
 crossing home; Lantern relit.
 
 **Function**: The there-and-back-again chapter, deliberately asymmetric: five months outbound
@@ -167,3 +167,119 @@ control with the city still ringing.
   (Hold. The public homecoming and the private one must not share a chapter.
   Iyo scans the crowd for her; she is not there; Iyo understands — Odile
   Ballast does not do banners. The kitchen, ch. 25, is theirs.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: every return beat structured as a changed-revisit with a
+specific outbound echo (the compression defense, locked). Anser permanently an open small door
+(locked). Odile held for ch. 25 (locked). Kettle's bell stays in the Lead — nothing comes back
+up (inherited from ch. 16, restated). The rotation four's safe arrival confirmed in the first
+radio contact (locked).
+
+### Scene list
+
+- **S1 — Safe passage** (Farside → the Anchorage, weeks compressed · the Column + Farside
+  escort). The farewell without ceremony; Ghost's sealed map-roll "for next time" (unopened
+  on the page — Book Two's first object); Reeve Stay to Frame: "Tell them we're here. Or
+  don't. We'll keep either way." The Sea behaving: weather holding, the bridge *maintained*
+  (fresh grease, one line, unremarked), Old Say's marker dressed with reef-line; the one
+  sky-tear opening around them — six hours of aurora standing in a ring while they walk
+  dry-shod down the middle. No one hails the gentle traffic on the board. They listen,
+  walking. Reception as company: Farside's skill, learned.
+- **S2 — The toll waived** (the Anchorage landfall · the Column + Quill's train). Mother
+  Quill in person, come out on the news. The Hearts meet the woman who prices warmth.
+  The waiver — passage, provision, escort, gratis — and the consideration, through the
+  smile: "First refusal, dears. On whatever you didn't bring back." Nothing signed; escort
+  anyway; the Provender's real ledger is knowing first. Vell cataloguing what she asks
+  about: the road's condition. Only that. He notes that this is the alarming part.
+- **S3 — The Reach, changed** (waystations in reverse · all). The toll-clan bareheaded at
+  the span; Pell's grave dressed with the charge-cell; Adder leaves the driver. Cinder Row:
+  Iyo's first command precedent — through, single file, lamps low; at the far gate Adder
+  turns and gives the town the road-nod. Lighthouse 9: lit, lens true, Anser cheerful and
+  fed — and blank on the application; reads his own hand twice; "Tear it up, would you?
+  Someone has to keep the light. I'm wanted here." Saltcamp: one night, paid in stories;
+  the pens hold four; Iyo performs the rote for the youngest and it runs soft, textbook —
+  and she finishes it anyway, knowing now she'll never know whether recovery is rescue.
+- **S4 — The Verge** (the Gloaming in reverse · all). Color returning in leaving-order
+  reversed — the ch. 6 ledger paid: iron, rust, then the whole drenched amber of the Long
+  Evening at the first out-farm (Immy Garden, taller, waving from the terrace — one shot,
+  no lines). Radio everywhere at once: the rotation four confirmed home months since; her
+  mother's voice live, with static, glorious static — Solene weeping at last for the
+  ordinary signal. Home politics in the background mix: Marlow's faction discovering its
+  lifelong support; Frame drafting her resignation with the unhurried pleasure of a woman
+  writing her own pardon. The cold-line greeting party at Iyo's own section — banners on
+  the lamp-posts, and under the ceremony, the true image: a linewalker coming home up her
+  own line on the correct count, with the watch hers.
+- **S5 — Lantern** (the Heart-chamber and the city above · Brakes commanding; everyone).
+  The swap as engineering liturgy; the sour Hum running down; THE SILENCE (the first true
+  silence in Lantern in 181 years; timed; babies born this year will be told of it); the
+  new Heart taking light — the Hum returning clean at the pitch of the world's childhood —
+  and the city going off like a struck bell above them. One page of unqualified joy, fully
+  earned, fully meant. Brakes burns the Pod 129 paper lantern in the new Heart's first
+  heat: cargo, delivered. And if her hands keep a half-beat against the rail as the Hum
+  settles — the same interval, the answer-line — that is the last sentence, stated once,
+  unremarked. End.
+
+### Dialogue keys
+
+- **Reeve Stay** (to Frame, locked): "Tell them we're here. Or don't. We'll keep either
+  way."
+- **Quill** (the consideration, locked): "First refusal, dears. On whatever you didn't
+  bring back." — the book's most sinister human sentence; she means the maps, the badge,
+  the ribbons, the knowledge, and things she cannot name; so does the reader.
+- **Anser** (locked): "Tear it up, would you? Someone has to keep the light. I'm wanted
+  here."
+- **Solene** (at the first static, laughing and crying): "Listen to it. Listen how *bad*
+  it sounds." — static as homecoming; her whole arc in a mixing note.
+- **The Order's engineer-of-record** (at the silence, liturgical): "Mark the time." /
+  **Brakes**: "Marked." — the swap's two-word liturgy; the Prior's countersignature comes
+  in the paper trail.
+
+### Game content pack
+
+**Locations**: the return route entire (Act 5 as designed: same maps, changed states —
+the biggest content-reuse win in the plan), Quill's train camp, the toll-span (bareheaded
+clan), Pell's grave, Cinder Row (revisit with the nod interaction), Lighthouse 9
+(revisit), Saltcamp (one-night state), the Gloaming (reverse color-grade), the cold-line
+section (banners state), Lantern's Heart-chamber (the finale room).
+
+**NPCs**: the Farside escort (six + Grandmother Ives turning back at the Anchorage — her
+goodbye to Tapper is tap-code, and Tapper answers *at length*; nobody translates), Quill
++ Factor Awl, Uncle Tare and Brist (bareheaded, wordless), Anser, the pens' four, Immy
+Garden (the wave), Verra Antenna (Solene's mother — voice first, then the mast-yard
+embrace), Provost Edra Glass (at Lantern, being handed her city back), Marlow (working
+the crowd; the book lets him).
+
+**Changed-revisit checklist (each beat = outbound echo, locked)**: the cache (ch. 7) found
+opened, their surplus left in it + a stranger's tally beneath Vell's entry; the glossary's
+two wrong entries corrected in a later hand; the bridge maintained; the marker dressed;
+the lighthouse lit; the pens softer; the trough at the last vent — every palm again,
+Elo's absence at it unspoken.
+
+**Side quests / optional content**:
+- *The Escorted Sea* — survival systems consciously relaxed (design law: absence of
+  pressure as unease); optional night-listening at the board (the gentle traffic:
+  authored, mundane, impossible).
+- *The Pens, Again* — resources permitting, free the four (prices unchanged; mercy still
+  unaffordable at scale; the player's Part IV education is measured by whether they try
+  anyway).
+- *Deliveries* — the mail confirmations: each rotation-four member findable at Lantern's
+  relighting or on the radio, each with one line about a letter delivered.
+- *The Lantern* — Brakes' paper lantern burn as a player-performed rite at the chamber
+  rail (one input; the item leaves the inventory it has weighted nothing in for ten
+  chapters).
+
+**Items, tokens & documents**: Ghost's sealed map-roll (inventory, unopened — the game
+literally will not open it; Book Two's key item), the waived-toll chit (stamped VOID by
+Quill herself, kept by Vell), the relief application (disavowed, retained), the
+Heart-chamber log page (paper trail: the silence's duration, the countersignatures, the
+Prior's line about the pitch being true).
+
+**Audio priorities**: the return's mix arc = the outbound's reversed (beds returning in
+order: Vein water → Sea wind → Reach chords → Gloaming wind → the Verge's bells); the
+first static (mix it beautiful — genuinely: EQ it warm); THE SILENCE at Lantern (the
+game's longest authored silence — every bed out, room tone only, hold past comfort);
+the new Hum arriving (the world's root note restored — and, one mixing note deep under
+it, for one bar, the answer-line's interval in Brakes' rail-taps; never again).

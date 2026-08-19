@@ -1,6 +1,6 @@
 # Chapter 25 — The Manifest of the Missing
 
-**Part IV: aftermath** · **Status: treatment** · The weeks after Lantern. Hearthfall.
+**Part IV: aftermath** · **Status: expanded treatment** · The weeks after Lantern. Hearthfall.
 Door to door.
 
 **Function**: The accounting chapter. The adventure is over; this is what the book was
@@ -168,3 +168,113 @@ game's last mechanical sentence: a wheel with one spoke.)
 - The recoveries-down report: verify placement (mid-chapter, one sentence,
   administrative register) so the coda's off-by-one lands on prepared but
   not braced ground.
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: door order locked — Weda Garden → the Delf household (Vell's
+lien) → the Dray household → Duna Terrace (the breather) → Edda Wick ("walking") → Sara Weir →
+Odile's kitchen. The "Can I go to him?" / "Maybe not never" exchange kept (locked — Book Two's
+pilgrimage pressure is founded here, deliberately). The Edda Wick door added (the reading's
+strange answer needs its family).
+
+### Scene list
+
+- **S1 — The hero problem** (Hearthfall, days · the Column vs. the machine). Parades want
+  simple cargo; Marlow's mint running. The counter-move as procedure: the Manifest will be
+  answered door to door, family by family, by the people who carried it. Grief retail, not
+  wholesale (Frame's phrase). Turn: the Hall posting the schedule like shift-work, because
+  it is.
+- **S2 — The doors** (the spine · Iyo + rotating seconds). Weda ("he's crew now"; "Can I go
+  to him?" / "Not yet. Maybe not never."). The Delfs (Tam home and taller; Liss "answered";
+  the Provender lien on the table; Vell pays it — "Errors and omissions. Mine."). The Drays
+  (one grave with honors, one roster-answer; the mother asking to be taught the tally-game:
+  "If it's what the children do there. I'll learn it. For when."). Duna (expecting; the
+  named baby; boots by the door — the breather). Edda Wick (the strange answer: "walking" —
+  "still on his way somewhere"; Edda, linewalker, professional, taking it the way weather
+  reports are taken, and then not). Sara Weir ("Did he do it well? Whatever he was for?" /
+  yes / the door closing gently).
+- **S3 — The institutions** (civic montage · all). The Order splitting pastoral/doctrinal
+  (Cistern's letter as samizdat; the offices said for the Errand's crew by name). Frame's
+  resignation + final report in one folder ("We have a border, not a wound. Borders are
+  administered."), funded as a study. The Line Watch founded anyway: Frame's
+  administration, Iyo's doctrine, Adder's training hall, Solene's listening room (charter
+  written by herself, deliberately vague about what it listens *for*). Brakes pardoned,
+  refuses ordination ("I fix things. You people *mean* things. It gets in the way"),
+  works-master at Lantern, registers Tapper as a person of the works — the clerk adds a
+  field.
+- **S4 — The kitchen** (Odile's · Iyo, Odile). Held all chapter. The kettle; the two chairs
+  and the third; the ribbons on the table; the drawer joke landing; Odile laughing with
+  her hand over her mouth — then the questions, small and huge (what does she eat; is her
+  hair long; does she still bite her thumbnail — yes; the detail landing on both women
+  like grace). Then, kettle steaming, weather-voiced: **"Is she happy?"** / **"I don't
+  know. She's busy."** / the silence; the kettle; and Odile's double-line — "Busy's not
+  nothing." Beat. "It's not enough, either." One ribbon into the drawer. One tied to the
+  window-lamp. Facing the dark. End.
+
+### Dialogue keys
+
+- **Weda Garden** (locked exchange): "Can I go to him?" / **Iyo**: "Not yet. Maybe not
+  never." — the sentence a heresy will be built on within the year; the book notes it and
+  moves on.
+- **Vell** (the lien, locked): "Errors and omissions. Mine."
+- **The Dray mother** (locked): "If it's what the children do there. I'll learn it. For
+  when." — neither madness nor sanity; the book declines to rule.
+- **Edda Wick** (the strange answer's door): "Walking." Beat. "Thirty years he rang bells.
+  Maybe it's a long way to whatever's ringing." — she makes the joke so Iyo doesn't have
+  to; both hear what it isn't.
+- **Sara Weir** (locked): "Did he do it well? Whatever he was for?" / **Iyo**: "Yes." /
+  the door, gently.
+- **Odile** (locked, the book's cruelest true lines): "Is she happy?" / "I don't know.
+  She's busy." / "Busy's not nothing." Beat. "It's not enough, either."
+
+### Game content pack
+
+**Locations**: Hearthfall in aftermath dress (banners aging by district), the doors (each
+a one-room interior with full art: the game renders SEVEN homes — budget them like
+bosses), the Hall (Line Watch founding state), the Order house (schism ambient), the
+works registry (the clerk's new field), Odile's kitchen (built in ch. 2; the same room;
+changed by nothing but time and two ribbons).
+
+**NPCs**: Weda Garden, the Delfs (Tam grown an inch), the Dray mother + Marta (answering
+the door beside her), Duna + Hessa Terrace, Edda + Fenn Wick, Sara Weir + Bren, Odile.
+Plus: Marlow (working), Frame (resigning), Vestel and the pastoral rump, Guyot, the
+works clerk (one scene, one form, one added field — give them a name: Clerk Ostry).
+
+**The door-to-door (design law from game notes, finalized)**: every Manifest name the
+player's log holds generates its door; resolved names play their found-voice answers;
+names the player never resolved must still be spoken for — the dialogue wheel offers
+only "we don't know," and the player must say it aloud (the game's hardest single
+input). The seven authored doors above are mandatory; the rest are generated from the
+player's own ledger. Vell's lien-payment is player-fundable from final inventory (or he
+pays alone; both are canon-compatible; his line is the same either way).
+
+**Side quests / optional content**:
+- *The Offerings, Answered* — the ch. 2 Undern offering-choice pays its silent tracking:
+  an Undern elder either thanks Iyo (left) or forgives her (cleared) at the Order house.
+  One line either way.
+- *The Application, Filed* — Iyo files Anser's relief application at the Hall with a
+  note ("keeper declines relief; keep the file open"); Guyot reads it, reads her, files
+  it. No quest marker. Players who carried it eleven chapters get the scene by walking
+  in.
+- *The New Rote* — Adder's training hall open: teach one recruit class the amended rote
+  (the ch. 1 tutorial replayed from the teacher's side — same inputs, new first line:
+  "Ask. The answer may be no.").
+- *The Charter* — read Solene's listening-room charter (paper trail adjacent): its
+  operative clause is one sentence long and does not say what it listens for. Mirin's
+  sentence ("someone has to carry the answering") is its unattributed epigraph.
+
+**Items, tokens & documents**: the ribbons (one into the drawer, one to the window-lamp —
+the player performs both placements; the order is the player's; the result is canon),
+the lien receipt (same form as Tam's ch. 8 reclamation receipt — the rhyme is in the
+paper), the training card (paper trail: the new rote with visible strikethroughs; the
+Watch motto — "We know where everyone is." — Farside's sentence on home's stationery),
+the season-book (opened; the *returns* column header ruled fresh — ch. 26's document
+seeded).
+
+**Audio priorities**: doors (each home gets its own room tone — seven interiors, seven
+silences); the tally-game chant heard from a Hearthfall yard, once, mid-chapter (the
+migration complete; no comment); the kitchen (kettle, chairs, the drawer's runners —
+the scene is 90% foley and two performances); the last image (the lamp's wick-turn —
+the ch. 26 rhyme pre-sounded).

@@ -1,6 +1,6 @@
 # Chapter 26 — Nightward
 
-**Part IV: coda** · **Status: treatment** · Months later. The cold-line. The last chapter.
+**Part IV: coda** · **Status: expanded treatment** · Months later. The cold-line. The last chapter.
 
 **Function**: The coda — one quiet chapter, one shift on the line, the changed world rendered
 in the book's opening grammar. No new events; one new number. Book One ends where it began,
@@ -156,3 +156,107 @@ else gets it untranslated. Both audiences are correct.)
   read as bookkeeping, not message; if cold readers parse it as a threat or
   a promise, trim to COUNTED alone. (The author's private truth, parked with
   the rest: it is neither. It is a colleague, closing out the shift.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the courteous-no walker locked as a stranger forever. The final
+lines' "knock" flagged for the prose-stage read-aloud (both variants carried until then). The
+closing document's work-code entry held at COUNTED. — ALL WELL. pending cold-reader test (trim
+to COUNTED alone if it reads as message rather than bookkeeping). The ch. 5/ch. 1 style rule
+confirmed here: no digits printed for the final count; the off-by-one is rendered entirely in
+Iyo's body and the recount.
+
+### Scene list
+
+- **S1 — The line, kept** (Post 9 → Post 11, one shift · Iyo + the shift). Line-Warden
+  Ballast walking her own roster ("administrators walk the line"). The opening chapter's
+  texture with the changes embedded: the new training card in every breast pocket; wick-
+  hours still climbing; the lamps the same. The two encounters, one page apart: the Marrow
+  quarryman (the new rote performed in full; the long minute; "—and he comes back,
+  embarrassed, warm, talking about his sister's wedding") and the older woman ("No, thank
+  you, dear" — courteous as declining tea; Iyo stands aside; logs the name; watches her
+  out of lamplight; does not count). Both are the trade now. Neither comments on the other.
+- **S2 — The state of the world** (the shift's information-grammar · log entries, radio
+  checks, the berm's sightlines). Lantern true on the night band under Solene's standing
+  watch; Farside a budget line ("study, ongoing"); the pilgrimage petition tabled twice
+  (Weda's name second on it); the Provender's courteous new reef-goods trade nobody
+  remembers negotiating; Anser's light logged turning nightly; and the season-book's new
+  column in Iyo's administrative hand: *returns, seventeen.* The Verge learning to live on
+  a border; the border learning the Verge's manners; nobody able to say who is teaching
+  whom. Protocol, not peace.
+- **S3 — Elo** (between Post 10 and 11, the darkest reach · Iyo, Elo at line-distance).
+  The figure off the line, at the correct distance, patient as furniture — *facing
+  homeward.* The geometry of the whole book reversed in one silhouette. No approach, no
+  crossing; line-courtesy at line-distance: her double lamp-uncover; his raised hand —
+  and the wave. The small, unmistakable, colleague's wave. Then he turns and walks back
+  into the dark, easy as a man going in to supper. He asked nothing. (The reader checks
+  the sentence twice. The omission is the loudest thing in the chapter.)
+- **S4 — The count** (Hearthfall, her street, shift's end · Iyo). The walk home restored
+  to its oldest habit; the count coming home one high. Not dramatic; one extra step
+  somewhere between the corner and her door. The stop. The recount: correct. The stand
+  in her own window's lamplight (Odile's lamp; the faded ribbon tied fast), looking back
+  down the empty amber street. There is no one there. There is nothing wrong. (Rule 1,
+  final application: it will only ever ask.)
+- **S5 — The latch** (her doorway · Iyo). The latch; the banked stove; the lamp in the
+  window facing the dark; and the wick turned up one extra finger's width — this year's
+  doctrine in one small motion. The final lines (both variants carried to prose stage):
+  the "still here." cut, and the "and knock." full. End of Book One.
+
+### Dialogue keys
+
+- **The quarryman** (coming back, embarrassed): "Don't tell my sister. She's getting
+  married. She'd make it about the wedding." — recovery as conversation; the new normal
+  wearing a joke.
+- **The older woman** (locked): "No, thank you, dear." — the whole revolution in four
+  words and a courtesy.
+- **Old Cabb** (at shift hand-off, the veteran on the new rote, grudging): "Thirty years
+  ringing bells at it. Turns out you could just *ask*." Beat. "Doesn't mean I like the
+  answers." — the institution's voice: adapted, unconsoled.
+- **Iyo** (the only VO in S4, under breath, mid-stream per style rule): "…thirty-six…
+  thirty-seven…" — and the stop. No total. Ever.
+- **The season-book** (the closing document, held): *returns, seventeen* — and in REMARKS,
+  unsigned, in the work-code's simplest glyphs: COUNTED. — ALL WELL.
+
+### Game content pack
+
+**Locations**: the cold-line section (Post 9–11 — the ch. 1 map, re-dressed: banners gone,
+new training cards, same lamps), the Hall (season-book interactable), Furnace Row (the
+ch. 2 street, final walk), the house (interior; the latch; the window).
+
+**NPCs**: the quarryman (one encounter, full new-rote interaction), the older woman (one
+encounter, the no), Old Cabb (hand-off scene), Edda Wick (on the roster board as trainee —
+one glimpse), Elo (the wave).
+
+**The final shift (design)**: fully playable, structured as ch. 1's mirror — same section,
+same interaction order where possible; the new rote live with both authored outcomes; the
+season-book readable before walking home (the *returns* column; the player may notice
+REMARKS is empty — it is not empty after the credits).
+
+**The wave (interaction, locked from game notes)**: return the double-uncover or don't;
+he waves regardless; nothing follows from no.
+
+**The count (count-lie #2 of 2, finalized)**: the step-counter UI returns unbidden for
+the final street — silent since ch. 20's farewell-count — and comes home one high against
+a total the game has never shown and never will. Recount on player choice: correct. No
+stinger. The latch, the wick input (one extra notch — the player performs the doctrine),
+credits from inside the house, looking out at the lamplit street through the window with
+the ribbon.
+
+**Post-credits (locked)**: the season-book page, REMARKS filled: the work-code glyphs.
+Translated only for players who learned the code in ch. 4. Everyone else gets it
+untranslated. Both audiences are correct.
+
+**Items, tokens & documents**: the new training card (breast pocket, equipped), the
+season-book (the closing paper-trail document), the window-lamp + ribbon (the game's
+last interactable), the wick (the final input).
+
+**Audio priorities**: ch. 1's bed remixed (same wind, same lamp-hiss, one year older —
+re-record nothing; re-EQ everything slightly warmer: the world is not safer, but she is
+*home* in it); the quarryman's talk and the woman's four words given identical mix
+treatment (the design argument in audio: both outcomes are the trade); the wave scene
+silent except wind (locked); the final street: footsteps and her under-breath count,
+the one extra step NOT distinguished in the foley (do not mark it; the count marks it);
+the latch, the stove, the wick's small screw — the book's last three sounds, in that
+order, then room tone under credits.

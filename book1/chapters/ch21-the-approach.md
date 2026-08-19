@@ -1,6 +1,6 @@
 # Chapter 21 — The Approach
 
-**Part IV: Night Country** · **Status: treatment** · Week twenty-five. Farside to the
+**Part IV: Night Country** · **Status: expanded treatment** · Week twenty-five. Farside to the
 Keelbreak. The wreck seen at last.
 
 **Function**: The last leg — scale, awe, and the inversion the whole book has walked toward:
@@ -141,3 +141,103 @@ been paying attention will make the identification exactly as Iyo does. Trust th
 - Whether the three rim-troopers holding the road reads as cowardice. (It must not —
   write it as the honest limit of what oath-shaped courage can do; Frame's descent
   is bigger for their staying.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the road-book's expectation entry made undated (locked — "the
+relief" reads as logistics, never prophecy). Cistern's spur-path cameo kept, mid-chapter,
+Iyo-only, one beat (locked). The three rim-troopers' staying written as the honest limit of
+oath-shaped courage (locked).
+
+### Scene list
+
+- **S1 — Leaving Farside** (quays, dawn-bell theirs · the Column + guides). "You're not
+  leaving, you're going *up*." Provisions without invoice; Vell's constructed ledger signed
+  by the quay-crew to make him well. Guides assigned: Cale Stay (reef-farmer's son) and
+  Grandmother Ives Stay (returned, walked forty years ago). Ghost's goodbye: the double
+  lamp-uncover, and "You keep a good line, Ballast. Wasted on the lit side, honestly."
+- **S2 — The Vein Road** (the seam canyon, days · all). Reef-fields at full scale; the road
+  *made* — graded, cairned, drained, swept. The stocked shelter-cairns. Adder's flat
+  professional summary: "Best-kept road I've ever marched." The guide-team's dogs trotting
+  it like a mail route. Turn (Iyo-only, one beat): a heavyset silhouette on a spur-path
+  above the reefs, walking, not waiting, a knotted cord swinging at the wrist. Not pointed
+  out. Gone.
+- **S3 — The traffic** (the road, closer · all). The Walked at distances, both directions —
+  commuting. Inbound files carrying *loads*: tools, reef-baskets, a coil of line.
+  Grandmother Ives exchanging greetings by name. The close pass: **Trooper Gale**, warden's
+  coat, a spool on her shoulder, the road-nod to Frame. Frame does not call out. Logs the
+  time. Walks on.
+- **S4 — Kiln's failing** (halts, evenings · Kiln + the Column). Hands gone for mornings;
+  riding the Farside sledge as command posture; and the voice waxing as the body fails —
+  the inventory-litany turned love-song ("her keel is one casting, the largest thing our
+  species ever made whole"). The watch-share with Iyo; her question ("Is it her calling
+  you, or you calling her?") and his answer: "I have never once been able to tell. That is
+  what crew *means*."
+- **S5 — The Errand** (the Keelbreak rim · everyone). The rift; the ship across it,
+  city-sized, broken-backed — and lit: window-rows, work-lamps, moving lights. Traffic
+  threading down the rim-paths to her open bays like a shift change. From inside her, at
+  the pitch of the whole world's childhood: the Hum. Perfect. Tended. Brakes: "...She's
+  *running*." Below, at bay three's swept ramp: a figure, stopped, facing the rim.
+  Identifiable at no distance. Identified. End. (The name prints in ch. 22's first line.)
+
+### Dialogue keys
+
+- **Ghost** (the goodbye, locked): "You keep a good line, Ballast. Wasted on the lit side,
+  honestly." — she will decide the meaning for years; so will the reader.
+- **Adder** (the road): "Best-kept road I've ever marched." — the whole Night Country
+  reviewed in five words by the man qualified to review roads.
+- **Grandmother Ives** (of the inbound loads, asked by Solene what they're carrying,
+  speech rules native to her): "What's needed." — no lie, no why, and the Column stops
+  asking.
+- **Kiln** (the litany, sample): "Forward frames: titanium lattice, poured in orbit of a
+  world you've no word for. Her keel is one casting — the largest thing our species ever
+  made whole. You are walking toward the best thing we ever did."
+- **Kiln** (the answer, locked): "I have never once been able to tell. That is what crew
+  *means*."
+- **Brakes** (the rim, locked): "...She's *running*."
+
+### Game content pack
+
+**Locations**: the Vein Road (three travel segments through reef-canyon — the game's most
+beautiful traversal; verbs strip at the second cairn per design law: weapon/tool wheel
+disabled), shelter-cairns (stocked, swept — camp scenes with no upkeep costs; the relief
+of it should feel wrong), the spur-path sightline (authored, missable, Iyo-only bark if
+caught), the Keelbreak rim (the vista the game is sold on).
+
+**NPCs**: Cale Stay (young, chatty, first-generation-lit-side curious), Grandmother Ives
+Stay (returned guide — the returner grammar in a warm grandmother register; the game's
+boldest normalization move), the road traffic (authored files with road-courtesy
+interactions — the nod as an input, optional, devastating), Trooper Gale (the pass — one
+nod, one spool, no dialogue).
+
+**Side quests / optional content**:
+- *Road Courtesy* — learn the Night Country's passing etiquette from Cale (who learned it
+  from the returned): the nod, the load-side rule, the junction yield. Using it correctly
+  with walker traffic yields... correct use. Nothing else. (The content is the player's own
+  changed behavior.)
+- *The Shelter Book* — each stocked cairn holds a road-book page (maintenance rota, mixed
+  hands, tap-glyph signatures); the undated expectation entry ("Expected: the relief.
+  Sweep bay three ramp.") sits mid-page, unhighlighted, missable (locked per decision).
+- *Kiln's Watch* — the sledge-side evening scenes playable as sit-with-him verbs (the
+  ch. 22 hand-hold relay's grammar rehearsed here: the player learns to just be present;
+  Tapper attends every one).
+
+**Ambient events & barks**: reef-fields pulsing in slow kilometer-long waves (the road's
+light breathes); the guide-dogs' unbothered professionalism (Verge players' dogs-won't-
+cross-the-line knowledge inverted, no comment); Gale's pass (the game holds camera control
+during it — no cutscene, but Frame's model stops, writes, resumes; players who missed who
+that was can check her log at camp).
+
+**Items, tokens & documents**: Farside provisions (invoice-free supply — the economy UI
+showing zeros and the player's learned dread of gifts doing the rest), the road-book page
+(paper trail), Kiln's dispositions log (he writes it at the last cairn — Vell receives it
+on-page and visibly does not read the final line; the ch. 23 plant, locked).
+
+**Audio priorities**: the Hum arriving bottom-up (haptics before audio, per the design
+bible — the player's controller knows before their ears); the litany (Kiln's VO recorded
+in one continuous take if possible; the frailty and the fluency in one breath); the rim
+reveal (all beds out except the Hum and wind — let the image and the pitch of home carry
+it); the ramp figure (no sting, no name-plate, no music: one distant model and twenty-two
+chapters of preparation).

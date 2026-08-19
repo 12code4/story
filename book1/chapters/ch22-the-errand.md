@@ -1,6 +1,6 @@
 # Chapter 22 — The Errand
 
-**Part IV: Night Country** · **Status: treatment** · Week twenty-six. Aboard the ship. The
+**Part IV: Night Country** · **Status: expanded treatment** · Week twenty-six. Aboard the ship. The
 racks. Maren. The gift. Kiln comes home.
 
 **Function**: The summit chapter. Everything the book has carried gets set down here: the
@@ -164,3 +164,113 @@ themselves.
 - Elo aboard: he peels off at the ramp — "delivered" — and is *absent* from beats
   2–5 (his formal function returns in ch. 23). Confirm the absence reads as
   protocol, not disappearance.
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: Maren's "we hear everything" exchange KEPT, exactly one clause,
+flagged for the mystery pass with the guardrails on the table (it detonates the radio thread
+retroactively without explaining it — currently judged inside the line). Elo's ramp absence
+locked as protocol, restated on-page in one sentence of Iyo's perception. The boards lighting
+for Kiln confirmed rule-1-compliant (greeting, not action; locked; watch drift at refinement).
+
+### Scene list
+
+- **S1 — Maren** (bay three's ramp · Iyo foregrounded, all present). The name printed in the
+  first line. The embrace; machine oil and nothing else; the good, specific questions about
+  Odile's shoulder. The nine words: "I can't now — we're almost done counting." The
+  addendum: "Nobody *took* me. I was *asked*. You of all people know the difference — it's
+  your whole trade." Elo peels off at the ramp — delivered — and Iyo files his absence as
+  protocol. Turn: walking aboard holding her sister's hand, in step, not counting.
+- **S2 — The ship inside** (corridors, work-decks · all). Reef-light trained up trellises;
+  the Hum in every surface; a thin crew running a vast ship — ducts relined, gauges read,
+  the old guide tapping code with a maintenance frame. Tapper's continuous soft street-name
+  muttering, answered sometimes from the walls. Kiln at the lock threshold: stands, crosses
+  her frame on his feet, and the Walked straighten as he passes. He weeps at attention the
+  whole first corridor.
+- **S3 — The racks** (hold deck three · everyone). Kilometer-deep bays in low green light:
+  twenty thousand alive. The care-infrastructure of generations: stools, tool-rolls, folded
+  blankets, chalk-tallies (the children's game revealed as drill; no one says so). Weda's
+  son found mid-round, healthy, absorbed. Frame walking the rows like an auditor of heaven;
+  Gale, found at work; the badge returned to Frame's palm: "You'll want this for the
+  roster, Warden. I've a different one now." Turn: the room self-explaining what the
+  walking has been *for*, without one line of exposition.
+- **S4 — The gift** (the reserve bay · all). Six Hearts; two already decoupled and
+  sledge-framed; handling-notes chalked in work-code and a Verge hand. The freight tag:
+  CONSIGNMENT: HEARTHS 2. RECIPIENT: THE PASSENGERS. Brakes' inspection ("better than I'd
+  have done it") and her acceptance of custody. Why-two never asked aloud; the racks'
+  telltales answer it. No negotiation scene (locked structural refusal). They take what is
+  given, and no answers, because none are offered and none are owed.
+- **S5 — Kiln comes home** (the command deck · everyone; the Walked at the hatchway). The
+  canted deck; the boards lighting for him, low and patient; the chair taken at its ruined
+  angle, correctly. The hour: dispositions (cores to Brakes; the log to Vell — the last
+  line visibly unread; the Column to Iyo — "you've had the watch since the Lead"); tap-code
+  with the boards, Tapper answering for his failing hands; the viewport, the tracking eyes,
+  the recognition the Column will argue about privately forever. "Warrant Officer Kiln,
+  returning aboard. End of walk." The boards hold their light one minute, then bank like a
+  lamp trimmed for the night. The ship logs him. The Column sits with him in the dark of
+  the deck — eight souls, one automaton, twenty thousand sleepers — and the chapter ends
+  with no further dialogue: the Hum, and the Hearts waiting in the bay, warm.
+
+### Dialogue keys
+
+- **Maren** (the nine words, locked): "I can't now — we're almost done counting."
+- **Maren** (the addendum, locked): "Oh, Iyo. Nobody *took* me. I was *asked*. You of all
+  people know the difference — it's your whole trade."
+- **Maren** (domestic, load-bearing): "Does she still take the late furnace shift? She
+  shouldn't. Her shoulder." — the horror and the mercy fused: she is *current*.
+- **Iyo / Maren** (the kept exchange, one clause, flagged): Iyo starts to tell her — the
+  father, the ribbon, three years of chairs — and Maren, gently: "I know. We hear
+  everything." — and the radio thread detonates retroactively, unexplained (locked
+  phrasing; mystery pass owns anything further).
+- **Gale** (the badge): "You'll want this for the roster, Warden. I've a different one
+  now."
+- **Kiln** (the last words, logged by three witnesses identically): "Warrant Officer Kiln,
+  returning aboard. End of walk."
+
+### Game content pack
+
+**Locations**: bay three ramp (swept), the working corridors (reef-trellis lighting rig —
+the art bible's hardest room), hold deck three (the racks: the game's scale shot —
+walkable, mostly dark, telltales to the render horizon), the reserve bay (the gift), the
+command deck (canted thirty degrees — build the whole scene on the true incline; the
+player walks Kiln's ship the way she lies).
+
+**NPCs**: Maren Ballast (full performance-capture budget per design bible; never uncanny —
+the returner grammar worn like a work apron), the ship's crew (every resolved Manifest
+name renders at a station — the census payoff; Weda's son Corvo at his rack-row; Liss
+Delf at a duct; Keeper Bole where the light-work is, game-only, unremarked), Trooper
+Gale (the badge scene), Grandmother Ives (moves through the ship like a woman visiting
+her old shop floor).
+
+**Interaction design (the chapter's verbs, per design law — no enemies, no keys, no
+locks)**:
+- *The Census* — the Manifest quest system's payoff: approaching any resolved name yields
+  their present-tense state (working; well; busy) in the voice the player found them in.
+  Unresolved names are simply *findable anyway* — the room out-knows the player's log,
+  quietly.
+- *The Gift* — the player physically accepts the sledge-tow (a weight-and-cadence
+  interaction; the Hearts are the heaviest thing the game ever asks the player to move,
+  and the input should feel like it).
+- *Kiln's Hour* — the sit-with-him scene: free movement suspended; the one input is the
+  tap-code hand-hold relay (the ch. 4 greeting-code literacy's final exam; cannot be
+  failed, only *meant* — input cadence maps to Tapper's relay). Boards dim on his line.
+  No cut to black (locked law): the deck holds in Hum-light until the player stands up.
+
+**Side quests / optional content**: none. (Design law: the Errand carries no optional
+content, no pickups, no economy. Everything aboard is either witnessed or given. The
+game's inventory UI does not open inside the hull — grey the button; players will try;
+the greyed button is the content.)
+
+**Items, tokens & documents**: the two Hearts (cargo, custody: Brakes), the freight tag
+(paper trail), the badge (into Frame's breast pocket — visible on her model through
+ch. 26), Kiln's log (to Vell, final line unread — the ch. 23 plant, locked), the crew
+manifest line (paper trail: KILN, U., W.O. — ABOARD, under 181 years of closed entries).
+
+**Audio priorities**: the Hum at source (the game's whole audio identity resolved to its
+root — mix it as *comfort*, which is the horror); Maren's voice (warm, unprocessed, NO
+returner treatment — the design rule made audible); the racks (twenty thousand slow
+telltale pulses as a sub-audible rhythm bed — almost the count); Kiln's hour (room tone,
+tap-code, the boards' low harmonics; his last line dry and formal and complete); after
+the banking: one full minute of held Hum before any player input is accepted. Hold it.

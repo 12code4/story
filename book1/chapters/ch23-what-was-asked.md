@@ -1,6 +1,6 @@
 # Chapter 23 — What Was Asked
 
-**Part IV: Night Country** · **Status: treatment** · Departure from the Errand. The formal
+**Part IV: Night Country** · **Status: expanded treatment** · Departure from the Errand. The formal
 question; the roster read out; Tapper's choice.
 
 **Function**: The counterweight chapter — every gift invoices. The book's horror thesis
@@ -168,3 +168,107 @@ return it, or don't. No consequence either way. (Nothing follows from no.)
   should not confirm the second figure by name; Iyo knows, the reader knows, the
   text withholds. (House style: the important identifications happen in bodies,
   not in print.)
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the roster-reading's answered-statuses locked terse (present;
+working; well) with Frame's procedural cadence carrying it and weeping banned from the scene's
+text. Kiln's "let her weigh" plant confirmed against ch. 22 (Vell visibly receives-but-does-
+not-read the log's final line — now on-page there). The two watchers at bay three stay
+silhouette-only (locked). One strange answer added to the reading (locked): Corm Wick's —
+*"walking"* — the only status of its kind; parked; ch. 25 owns the door it opens.
+
+### Scene list
+
+- **S1 — Making ready** (bay three · all + the Walked provisioning). Load-order in the old
+  grammar; one page of being merely good at their jobs. The second ribbon: Maren's, worn
+  soft, sent for Odile with the drawer joke. Two ribbons on one wrist to book's end.
+- **S2 — The question** (the ramp's foot · Elo, the assembled Column). The register change
+  everyone recognizes. The thanks, by name, each of them, Frame and Tapper included. The
+  formal question, once: "Any of you may stay. The work is real, the place is kept, and
+  you would be welcome. It is allowed to say yes. It is allowed to say no. Nothing follows
+  from no." Then the faces, printed without mercy or comment: Solene's two seconds; Adder's
+  costly non-hesitation; Frame declining for two; Vell — the blindside — hesitating, and
+  his smallest-voice no.
+- **S3 — Brakes' hands** (the same silence · Brakes). "No, thank you," steady — and her
+  hands tapping yes against her seams. She sits on them, on the sledge-rail, absurd and
+  absolutely serious: "No. Thank you. I'm driving the Hearts home." Elo's nod; no glance
+  at her hands — the question was asked of *her*, and nothing follows from no. (The hands
+  stop that night. Entirely. The cause stays parked; the manners are confirmed.)
+- **S4 — The ask and the roster** (the ramp's foot · Iyo, Maren above; then all). Iyo
+  answers the question with her question — her sister, for the light — matching his
+  register. Elo does not answer (no whys, theirs included); Maren does: "I'm needed, Iyo.
+  So are you — somewhere else. We're keeping the same house from two doors." Then the
+  counter-liturgy: the Manifest opened on the sledge-head; Frame stepping up unbidden;
+  every carried name read out — and answered, from the bays, the ramp, the hatchways:
+  present; working; well. (Corvo Garden. Liss Delf. Corun Dray — her voice holds. I. Gale,
+  read by Frame, answered by Gale. And Corm Wick: *"walking."* — the reading's one strange
+  answer; no one comments; Edda's ch. 4 joke files itself.) Not one name unanswered. The
+  book does not say what that means about the dark's bookkeeping.
+- **S5 — Tapper** (the bay threshold · everyone). The recall glyph on every board: CARGO
+  HANDLING UNIT 7: RETURN TO STATION. Brakes off the sledge with her whole sentence ready.
+  Vell reads the log's last line aloud — Kiln's hand: "U7 to discretion of U7. She has
+  carried us; let her weigh." The glyph holds. Tapper, permitted for the first time in
+  260 years to weigh an order, turns to the boards and taps, slowly, legibly: NO.
+  ASSIGNED: COLUMN. LOG IT. The boards bank. The ship logs it, courteous to the last.
+  Exit: the rim; the one permitted look back — the lit ship, the traffic, and at bay
+  three's foot two figures, one cold, one warm-handed, watching them go. Elo raises his
+  lamp. Uncovers it twice. End.
+
+### Dialogue keys
+
+- **Elo** (the formal question, locked in full): "Any of you may stay. The work is real,
+  the place is kept, and you would be welcome. It is allowed to say yes. It is allowed to
+  say no. Nothing follows from no."
+- **Brakes** (locked): "No. Thank you. I'm driving the Hearts home."
+- **Maren** (the refusal, locked): "I'm needed, Iyo. So are you — somewhere else. We're
+  keeping the same house from two doors."
+- **Kiln's log, final line** (locked): "U7 to discretion of U7. She has carried us; let
+  her weigh." — the pronoun doing what no speech could.
+- **Tapper** (the taps, rendered in text as the Column reads them aloud together, half a
+  beat behind each tap): "NO. ASSIGNED: COLUMN. LOG IT."
+- **The reading** (form, locked): name → beat → answer. "Corvo Garden." / "Present.
+  Working. Well." — terse, procedural, unbearable; Frame's cadence; no tears written.
+
+### Game content pack
+
+**Locations**: bay three (load-out staging; the ramp's foot as the question's stage), the
+Manifest sledge-head (the reading's lectern), the bay threshold (Tapper's choice), the rim
+(the look back — one camera, one input: turn around or don't).
+
+**NPCs**: Elo (his last full scene), Maren (above, on the ramp; her refusal delivered from
+her own doorstep — staging locked), the Walked provisioning crew, everyone.
+
+**The choice (design law from game notes, restated and finalized)**: the question is real
+for Iyo only — the player answers; every companion's stay/go is authored (all decline; the
+hesitations play out in performance, not menus). Choosing STAY triggers the alternate coda
+hook (Brakes walks the line home — built much later; the hook ships dormant). Canon:
+decline.
+
+**The roster-reading (interaction design)**: the player reads each name using the
+count-cadence input — the recovery mechanic's true final use (per the design bible: the
+same verb, repurposed from holding-someone-back to *calling-them-answered*). Every name
+the player carried plays its answer in the voice the player found it in; names from
+optional content (the Gardens' four, ch. 6) answer too, if carried. Corm Wick's "walking"
+lands mid-list, unflagged. The reading takes as long as it takes. No skip. (Players will
+time it. Let them.)
+
+**Side quests / optional content**: none aboard (the ch. 22 law holds to the threshold).
+One optional beat on the rim: return Elo's double lamp-uncover, or don't. No consequence
+either way. Nothing follows from no.
+
+**Items, tokens & documents**: Maren's ribbon (the second — wrist-stacked with the first;
+costume canon to book's end), the Manifest (converted page by page — its final state is
+the paper trail: "— answered" in the mixed hands; Iyo's token column amended to "two"),
+Kiln's log (Vell's custody, final line now read), the recall glyph (never seen again).
+
+**Audio priorities**: the question (Elo's register change — the ordinary voice acquiring
+exactly one degree of formality; direct, don't process); the hesitations (silence
+lengths are authored to the frame — Solene's two seconds is a *timed* hold); the reading
+(name / beat / answer as call-and-response across the bay's acoustics — the Hum
+underneath like a held pedal note); Tapper's taps (the woody patient voice, slow, each
+tap allowed its full decay); the last image (wind, the Hum distant now, and nothing
+else — the lamp uncovers are visual only; give the sound design the discipline to stay
+out).

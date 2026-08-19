@@ -1,6 +1,6 @@
 # Chapter 19 — Farside Landing
 
-**Part IV: Night Country** · **Status: treatment** · Week twenty-three. The town.
+**Part IV: Night Country** · **Status: expanded treatment** · Week twenty-three. The town.
 
 **Function**: First contact with the Stayers' descendants — hospitality that heals the body
 while it dismantles every category the Column brought. The horror of Part IV begins here as
@@ -128,3 +128,95 @@ distance's edge, never approachable.
   (intent: Farside has known about the Column longer than the Column has been
   walking — via the returned, via the ship; this is *implied infrastructure*, not
   omniscience, and must stay unglossed per guardrails).
+
+---
+
+## Expanded treatment — content pass
+
+**Decisions taken this pass**: the chalk tally-game arrives here (first quay-post, mid-game,
+child's letters — inherited from ch. 18's decision). Oma Stay planted this chapter (the
+reef-farmer who walks at the Warming — one line, content; her family's wedding-wave in ch. 20
+must have a face). The chapel-shed's interior stays unwritten until the ch. 20 refinement pass
+(locked).
+
+### Scene list
+
+- **S1 — The quays** (harbor edge · the Column + quay-crew). No gates, no challenge. "You'll
+  be the sister's lot. Kettles are on." The chalk tally-game on the first quay-post,
+  mid-game. Ghost greeted like a regular they're mildly tired of. Turn: hospitality as
+  logistics — billets, baths, broth, assigned without fuss.
+- **S2 — Reeve Ansel Stay** (the Vein-house table · Stay, Kiln, Frame, Iyo, Vell). Two
+  histories negotiating which is the ghost story ("Yours walked out and told the world we
+  died. Ours stayed and told no one you lived. Even-handed, I'd call it."). Practicalities
+  settle fast. Turn: the one law — "Take nothing from the ship she doesn't hand you." /
+  Vell: "And otherwise?" / the look, and: "You'd be taking."
+- **S3 — The furniture of the impossible** (town at large, a day · the Column dispersed).
+  Returners at dinner tables, in work-crews, minding children; the net-mending couple; the
+  word *the returned* said like a shift designation; Oma Stay at the reef-line sheds,
+  content, mid-net (one line, planted). Turn: "Nobody's missing. We know where everyone is."
+- **S4 — The scan** (everywhere, threaded · Iyo). Every face checked without the book saying
+  so. The ask at the net-sheds, in the town's own vocabulary. Answer, easy as directions:
+  "Ship-crew, that one. Up at the Keelbreak. Good hands, they say." Turn: Brakes finding
+  her in the shed; presence as repayment; Iyo finally saying aloud why she signed. Brakes:
+  "Sure. And if home's a thing she has two of?"
+- **S5 — The wrong comfort** (billets, night · Adder, Solene, Frame, Iyo). Fed, warm, safe;
+  instincts misfiring in the calm; Solene lying awake listening to mundane town-band radio
+  like a forbidden broadcast. The doorway exchange: "Warden's question, Ballast. If nothing
+  here is wrong—" / "—then everything at home is." / "Get some sleep." Neither does. The
+  not-lamp lights beyond the town, pulsing slow. End.
+
+### Dialogue keys
+
+- **Quay elder** (the arrival line, locked): "You'll be the sister's lot. Kettles are on."
+- **Reeve Stay** (the histories): "Yours walked out and told the world we died. Ours stayed
+  and told no one you lived. Even-handed, I'd call it."
+- **Reeve Stay** (the law): "Take nothing from the ship she doesn't hand you." / **Vell**:
+  "And otherwise?" / **Stay**: "You'd be taking." — underlined in Vell's notes, verbatim.
+- **The net-mending woman** (of her returned husband, to Cistern, mildly): "He doesn't eat.
+  He mends twice as many nets. It evens out." — domestic arithmetic as theology; Cistern
+  writes nothing down and is changed by it.
+- **A quay-woman** (to Solene, genuinely puzzled by the question): "Missing? Nobody's
+  missing. We know where everyone is."
+- **Brakes** (the shed): "Sure. And if home's a thing she has two of?"
+
+### Game content pack
+
+**Locations**: the quays (arrival stage; the chalk-post), the Vein-house (great hall —
+doubles for ch. 20's Warming), billets, the net-sheds, the terraces (town roamable — hub
+scale comparable to Saltcamp, register inverted: nothing is for sale), the chapel-shed
+(exterior only this chapter; Cistern enters; the player does not).
+
+**NPCs**: Reeve Ansel Stay, Mirin Stay (listener — introduced in passing, her shed glowing),
+Oma Stay (reef-farmer, planted), the quay elder, the net-mending couple (Sef and his
+returned wife Arn), children (the tally-game crew), a dozen townsfolk with barks, several
+returned (each written with full domestic specificity and zero uncanny styling — the
+design rule that makes the town work).
+
+**Side quests / optional content**:
+- *The Tally-Game* — learn it from the children (the playable minigame from the game-notes
+  doc lands here): turns of being It that end when you're "counted back." Charming by
+  strict order of the design bible. Adults never explain it; asked, a child says "it's how
+  you practice" and resumes.
+- *Net Duty* — work a reef-line shift with the quay-crew (labor as hospitality-repayment;
+  the town's only "currency"); one shift beside a returned crewmate — the game's returner
+  grammar ambient at shoulder distance for a full scene.
+- *The Census That Isn't* — Vell, professionally unable not to, starts a Farside census;
+  the town finds this hilarious and cooperates wrongly (everyone answers for someone
+  else); his abandoned worksheet is a paper-trail gem ("population: kept. see note.").
+- *Iyo's Scan* — systemized quietly: every face in town can be looked at (the game logs
+  nothing visibly; Maren is not here; players who check every face get one extra breath
+  of Iyo VO at the net-shed ask — "she's not here" arriving pre-broken).
+
+**Ambient events & barks**: the town bell's own schedule (never explained, kept by all);
+returners taking the deep watches on the quays ("so the others don't have to" — Elo's
+sentence, town-scale, unremarked); dogs here cross shadows they wouldn't cross at home;
+the not-lamp lights at render distance, always, never approachable (locked law).
+
+**Items, tokens & documents**: broth and bread (heat items, freely given — the economy
+system reading zero-cost and the player feeling the wrongness of that), Vell's census
+worksheet (paper trail), Frame's writ-suspension addendum (paper trail, from treatment).
+
+**Audio priorities**: the town's room tone = home's (bells, latch ripples, kettle noise) —
+the mix should be Hearthfall's with the Hum absent and reef-water present; the returned
+given NO audio treatment whatsoever (the restraint IS the treatment); the tally-game
+chant (the ch. 2 playground rhyme's cousin — same meter, different words; do not flag).
