@@ -44,7 +44,8 @@ changes, and what is waiting at the ship.
 | `book1/chapters/chNN-*.md` | One expanded treatment per chapter: beats + scenes, dialogue keys, and a game content pack (NPCs, side quests, items, audio) |
 | `book1/07-manifest-roster.md` | The Manifest of the Missing: canonical carried names, tokens, resolutions, doors |
 | `game/00-storyboard.md` | Game storyboard: loop, the 8 screens, Chapter 1 slice in ten frames, act flow |
-| `game/01-preproduction-plan.md` | Phased plan with gates and the five Gate A decisions (awaiting approval) |
+| `game/01-preproduction-plan.md` | Phased plan with gates, the five Gate A decisions (awaiting approval), and the dialogue review protocol |
+| `game/02-beat-board.md` | Beat board index: all 26 chapters — signature frame, dominant play, audio cue |
 | `series/00-series-arc.md` | The tetralogy: escalation logic, truth-braid proposal (not locked), motif ledger |
 | `series/book2-the-woken.md` | Book Two plan: full premise, cast, and a provisional 26-chapter map |
 | `series/book3-the-burned.md` | Book Three plan: the Glare crossing — premise, five parts, costs, ending target |

@@ -59,15 +59,36 @@ Order matters; each step is independently reviewable.
 5. **B5 — Audio sketch.** The slice's soundscape: wind bed, lamp hiss, boots, the count
    voice, the bell, room tone. Audio is this game's horror budget; it gets a real pass even
    in greybox. *Exit: the slice plays with sound on and the F6 silence beat works.*
+6. **B6 — Dialogue & script pass (continuous workstream).** Flesh every chapter's dialogue
+   keys into full scene scripts — all spoken lines, barks, and paper-trail documents — as
+   reviewable files (`game/script/chNN-*.md`), written in the voices locked in the expanded
+   treatments. Delivered **part by part** (Part I first, since it contains the slice), in
+   book order. *Exit per batch: your review.* This workstream starts in pre-production and
+   runs through all of production.
 
-**Gate B (slice review)**: you play the greybox slice with sound. Question on the table:
-"does one shift on the line feel right?" Approve → production; amend → we iterate inside
-Phase B.
+### Dialogue & story review protocol (standing, at your direction)
+
+**All dialogue and story pass through you before anything is locked.** Mechanics:
+- Every script file carries a status: `draft → reviewed → locked`. Nothing ships, records,
+  or gets built against until you have reviewed it; only lines you have seen become canon.
+- Review batches are one part at a time (6–8 chapters), each batch a single reviewable
+  deliverable so you can read for voice consistency across chapters, not line by line.
+- Your edits are applied verbatim; where an edit collides with a locked design law (count-lie
+  budget, returner speech rules, tone rules), the collision is flagged back to you — the law
+  bends to you, but never silently.
+- Story-level changes discovered during dialogue writing (a scene that won't play, a beat
+  that reads wrong aloud) are proposed as amendments to the chapter file, never patched in
+  quietly.
+
+**Gate B (slice review)**: you play the greybox slice with sound — with the Part I dialogue
+scripts (B6's first batch) in it or alongside it. Question on the table: "does one shift on
+the line feel right?" Approve → production; amend → we iterate inside Phase B.
 
 ## Phase C — Production (chapter-by-chapter)
 
-The writing workflow and the build workflow merge: refine a chapter's treatment → generate/
-author its scene script → build its frames → dress its art/audio → review. Cadence: one
+The writing workflow and the build workflow merge: refine a chapter's treatment → write its
+full dialogue script (B6 cadence, reviewed by you) → build its frames → dress its art/audio →
+review. Cadence: one
 chapter (or one hub) per cycle, in book order, because systems accrete in book order by
 design. Part milestones = playable act builds (Part I build, Part II build, …).
 
