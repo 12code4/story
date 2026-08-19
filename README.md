@@ -42,6 +42,8 @@ changes, and what is waiting at the ship.
 | `book1/05-game-notes.md` | Adaptation notes: regions, systems, side quests, endings |
 | `book1/06-deferred.md` | The parked mysteries + anti-pattern guardrails (do not mine yet) |
 | `book1/chapters/chNN-*.md` | One treatment per chapter: beats, character tracking, dread beat, game notes |
+| `game/00-storyboard.md` | Game storyboard: loop, the 8 screens, Chapter 1 slice in ten frames, act flow |
+| `game/01-preproduction-plan.md` | Phased plan with gates and the five Gate A decisions (awaiting approval) |
 
 ## How we work (chapter-to-chapter refinement)
 
